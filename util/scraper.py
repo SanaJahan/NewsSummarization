@@ -31,17 +31,17 @@ def scrape_url(category_list, url_list):
         slept = 0
         article_huff.download()
         while article_huff.download_state == ArticleDownloadState.NOT_STARTED:
-            # Raise exception if article download state does not change after 11 seconds
-            if slept > 12:
+            # Raise exception if article download state does not change after 12 seconds
+            if slept > 13:
                 raise ArticleException('Download never started')
         sleep(1)
         slept += 1
 
         article_huff.parse()
-        article_info_huff = {'category': category_list[i], 'title': article_huff.title,'text': article_huff.text}
+        article_info_huff = {"category": category_list[i], "title": article_huff.title, "text": article_huff.text}
         file_name = "../huffpostarticles/huffpost" + str(i) + ".json"
         with io.open(file_name, "w", encoding="utf-8") as f:
-            f.write(str(article_info_huff))
+            f.write(json.dumps(article_info_huff))
 
 
 def __main__():
