@@ -1,0 +1,29 @@
+The hardware on Uber’s self-driving car that struck and killed a 49-year-old woman in Arizona this March worked just fine, a new report found — it’s the software that failed.
+
+That’s one of several takeaways from a preliminary report released Thursday by the National Transportation Safety Board, which found Uber’s self-driving Volvo SUV observed the woman six seconds before the fatal crash, but failed to take any action to avoid her.
+
+On-board software initially classified the pedestrian as an unknown object, then as a vehicle, and finally as a bicycle in the seconds leading up to the crash, though the vehicle couldn’t definitively predict the bike’s path and adjust accordingly.
+
+1.3 seconds before the collision, the SUV was traveling at about 40 mph and determined an “emergency braking maneuver” was necessary. No such action was taken, however, as the system is currently disabled “to reduce the potential for erratic vehicle behavior,” the NTSB said.
+
+Handout . / Reuters National Transportation Safety Board investigators examine the self-driving Uber vehicle involved in the fatal accident.
+
+Uber told HuffPost it disables the emergency braking system on all of its Volvo SUVs while the cars are operating in autonomous mode as it’s a Volvo system, not an Uber system. That aligns with a report earlier this month that concluded the Uber did in fact recognize the woman, but failed to avoid her because of a software setting.
+
+A human safety driver who was in the Uber at the time should have intervened and taken control of the car, but didn’t. Video from the accident shows the driver wasn’t looking at the road, and instead was “monitoring the self-driving system interface,” she told NTSB investigators.
+
+Uber suspended all of its self-driving operations after the accident, and permanently ceased testing in Arizona on Wednesday. An Uber spokesperson told HuffPost that when it resumes testing in its two remaining cities of San Francisco and Pittsburgh, it will likely be on a more limited basis.
+
+Adding to the confusion, the median the pedestrian crossed prior to the collision features two prominent brick-colored pathways, seen below forming a broad “X”:
+
+National Transportation Safety Board
+
+Despite looking like a safe spot to cross, however, the paths aren’t meant for pedestrians. A spokesperson for the City of Tempe declined to comment on the median’s design or the intended purpose of the brick pathways, citing the ongoing investigation.
+
+The NTSB report also noted the pedestrian tested positive for methamphetamine and marijuana. That information is of limited use ― the Uber should have identified and avoided her either way ― but it does potentially provide insight into why she didn’t cross at the crosswalk 360 feet to the north, and why she was unaware of the vehicle until immediately before impact.
+
+Investigators added the woman crossed in a section of road that isn’t illuminated by street lights, was wearing dark clothing at the time, and her bicycle had no reflectors that were visible to the car.
+
+“Over the course of the last two months, we’ve worked closely with the NTSB,” Uber said in an emailed statement to HuffPost Thursday. “As their investigation continues, we’ve initiated our own safety review of our self-driving vehicles program.”
+
+The company noted it also hired former NTSB Chairman Christopher Hart earlier this month in an advisory role.

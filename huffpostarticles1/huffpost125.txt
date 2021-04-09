@@ -1,0 +1,51 @@
+Bloomberg via Getty Images Self-checkout appears to be growing in retail. How much of it is really driven by consumers, rather the retailers?
+
+Customers checking out at Amber Vankleeck’s Walmart store in Tennessee find two convenient options before them: They can take their groceries to a bank of self-checkout machines and start scanning the items themselves, or they can wait in line for a living, breathing cashier like Vankleek who’s much more efficient at it.
+
+But to a certain degree, the choice is already being made for them. Vankleeck says that at her store, management wants 65 percent of all customers going through self-checkout rather than traditional registers. Since many shoppers dislike the machines, the workers themselves often have to nudge them there ― even if it means siphoning work away from wage-earning cashiers.
+
+“They want the self-checkout host to pull as many customers to self-checks as they can,” explained Vankleeck, 23. “They want you to invite them over, say, ‘Hey, have you used our self-checkouts? If not, I’d be happy to show you how it works.’”
+
+After two decades of freeze-ups and unfamiliar items in the bagging area, self-checkout may be in the midst of an expansion. RBR, a research firm focused on banking and retail automation, says that self-checkout terminals recently had a “breakout year,” with global sales increasing by 67 percent in 2016; a surge in U.S. big-box stores purchases was a driving factor. NCR Corporation, the leading manufacturer of self-checkout machines, says it’s had record growth over the past two years.
+
+The way retailers and industry watchers tell it, self-checkout is growing because customers want it to grow. Tech-savvy millennials would rather deal with a machine than make small talk, and even old-school shoppers might like to avoid a long cashier line if they’ve only got a couple items.
+
+Kory Lundberg, a Walmart spokesman, said shoppers’ preferences dictate what the checkout lane looks like. “The way people are shopping is changing, and the pace of change is only going to increase,” Lundberg said. “Our focus is on providing the options our customers are looking for and helping them save time and money.”
+
+The way people are shopping is changing and the pace of change is only going to increase. Kory Lundberg, Walmart spokesman
+
+But what retailers don’t mention are the ways they’re trying to shape our behavior as consumers, especially if it can save on labor costs. At Vankleeck’s store, for instance, a customer who’s successfully steered away from a cashier and to a self-checkout kiosk is known as a “pull.” The self-checkout hosts who oversee several kiosks track the number of pulls they accomplish in a shift.
+
+“Our assumption is that [retailers] are in a process to retrain customers’ expectations so that over time self-checkout becomes a bigger and bigger part of it,” said Dan Schlademan, co-director of the Organization United for Respect, a worker center for retail employees. “The whole industry is trying to think of how it can get rid of every human it can. This isn’t some secret.”
+
+Certain chains that used to steer 30 percent of shoppers to self-checkout lanes are now steering 60 or 70 percent, said Dusty Lutz, a vice president at NCR. A lot of the boom comes courtesy of smaller-footprint stores. Shoppers tend to be more amenable to self-checkout where they’re buying only a handful of items and don’t have to deal with produce. At the pharmacy chain CVS, self-checkout kiosks can now outnumber manned registers at many locations.
+
+In January, Amazon unveiled its first location for Amazon Go, a store concept with no checkout at all. Customers in the Seattle store grab what they please off the shelves, while computer vision puts the items in the online shopping carts of their Amazon accounts. It adds up to what Amazon calls a “just walk out” shopping experience without cashiers.
+
+In theory, the growth of self-checkout and “scan and go” technology could be a win-win for everybody, including cashiers. By letting customers handle their own scanning and bagging, workers can spend their time helping customers find what they need. Even in an Amazon Go store, someone has to keep the shelves stocked and answer questions. Self-checkout can free up workers to do other important tasks — or so the thinking goes.
+
+“There’s still an absolute need for the human touch in these stores,” said Lutz. “But we do see a shift: Let’s take them away from the almost menial task of scanning and do higher-value work.”
+
+That hypothesis rests on the assumption that retailers would put displaced cashiers in other roles. Wally Waugh is skeptical. He has spent decades working in grocery stores, an industry known for its low-profit margins. He insists that the advent of self-checkout has made grocers more reluctant to make full-time hires.
+
+Waugh said that he and other workers faced weekly self-checkout quotas when he worked for Waldbaum’s, a New York-based supermarket chain that closed in 2015. Managers hit their targets at the kiosks by manipulating how many traditional registers were open; closing the number of available lanes inevitably steered shoppers toward self-checkout.
+
+According to Waugh, what was originally billed as a supplement to workers is more likely to replace them.
+
+“When I first started in this business, it was not odd to hire full-time cashiers,” said the 54-year-old, who now manages the front end of a Stop & Shop on Long Island. “But as the years went on and these machines became more and more prevalent, that went by the wayside. Now I’d say it’s almost unheard of for someone to hire a full-time cashier.”
+
+In its latest occupational outlook, the Bureau of Labor Statistics forecasts a 1 percent drop in the number of cashiers between 2016 and 2026, or the loss of an equivalent of 30,600 positions out of around 3.5 million. That may not sound like a hemorrhaging of jobs, but BLS predicts that the number of cashiers will fall in spite of a growing retail sector, thanks to self-checkout and online sales. Cashier is one of the most common U.S. jobs for someone without a college degree.
+
+I’d say it’s almost unheard of for someone to hire a full-time cashier. Wally Waugh, career grocery store worker
+
+“It’s kind of solving a problem that was not a problem for the consumer ― it was a problem for the grocer,” said Erikka Knuti, a spokeswoman for the United Food and Commercial Workers union, which represents hundreds of thousands of grocery workers.
+
+Knuti argued that the shift toward self-checkout devalues customer service, noting that anyone who scans and bags all day is going to be much better at it than any shopper. “They’re looking at labor as a cost, rather than an opportunity to make more money,” she said of grocers.
+
+Self-checkout will grow faster if manufacturers can eliminate the most common hiccups: the struggle to find a code for items without barcodes, like produce; the dreaded unknown item in the bagging area; and the need for an age check on alcohol purchases. NCR’s Lutz says his company is already developing remedies. The answers all involve artificial intelligence and computer vision (and, in the case of buying booze without a human looking at your driver’s license, probably some lobbying and legislation, too).
+
+“We have solutions for those top three problems already in the lab,” he said.
+
+However the machines improve, Waugh says, there are certain things a cashier does that a computerized kiosk could never duplicate. He has a handful of elderly regulars who stop by his store two or three times daily; he figures they come by so often because his cashiers offer some of the only conversation they have over the course of the day. He’s convinced customers would continue to value that sort of interaction. He just wonders about the employers.
+
+“My personal opinion is there’s no substitute for people; we offer something that I think the machines can never offer,” Waugh said. “If you’re someone like me, heading home after long day’s work, you’re going to want to be catered to a little bit. But you see the trend and where the industry is heading; there’s really no way to stop this.”

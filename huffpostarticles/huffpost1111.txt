@@ -1,0 +1,45 @@
+Bloomberg via Getty Images Twitter users received an alert from the company on May 3 directing them to change their passwords.
+
+Twitter is urging its more than 330 million users to change their passwords after it discovered a bug in its system that inadvertently stored account passwords in an internal log.
+
+The company’s CEO, Jack Dorsey, called the glitch an “internal defect.”
+
+We recently discovered a bug where account passwords were being written to an internal log before completing a masking/hashing process. We’ve fixed, see no indication of breach or misuse, and believe it’s important for us to be open about this internal defect. https://t.co/BJezo7Gk00 — jack (@jack) May 3, 2018
+
+Twitter users on Thursday received an alert from the company explaining the issue and directing them to their account settings so they could change their passwords.
+
+In a linked blog post, the company apologized for the problem.
+
+“We are very sorry this happened,” said Twitter’s chief technology officer, Parag Agrawal. “We recognize and appreciate the trust you place in us, and are committed to earning that trust every day.”
+
+The company fixed the bug, deleted the stored passwords and launched an investigation that showed no signs of a breach or data misuse, according to Agrawal.
+
+Still, “out of an abundance of caution,” the company said, it recommended that users change their passwords not only for Twitter but also for any other accounts with the same password.
+
+Twitter Twitter said a bug caused users’ passwords to be stored in an internal log.
+
+The bug affected a process called hashing, which Twitter uses to mask users’ passwords by cryptographically converting them to different number and letter combinations before storing them.
+
+Twitter uses the masked passwords to validate users’ account credentials.
+
+“This is an industry standard,” Argawal said.
+
+However, the bug discovered by the company caused the passwords to be stored in an internal log before they were masked.
+
+Argawal said that Twitter has “no reason to believe password information ever left Twitter’s systems or was misused by anyone” but recommended that users take extra steps to secure their accounts, including two-factor authentication and using different passwords for separate accounts.
+
+He received some backlash from Twitter users after he tweeted that the company “didn’t have to” tell users that their passwords had been stored in plain text in its system.
+
+We are sharing this information to help people make an informed decision about their account security. We didn’t have to, but believe it’s the right thing to do. https://t.co/yVKOqnlITA — Parag Agrawal (@paraga) May 3, 2018
+
+If any part of your response to a potential data breach that massive includes the belief that you didn’t have to let your users know, then you are unfit to be a part of the leadership team. — Jonathan (@Kez_Darksun) May 3, 2018
+
+lol you know what else you didn't have to do? Store our passwords in plain text. — Λce (@AceOfWallStreet) May 3, 2018
+
+"we didn't have to tell you we fucked you over" is a great take here — Ashley Louise (@AshleyLLouise) May 3, 2018
+
+Agrawal later admitted he made a mistake by saying that Twitter didn’t have to inform users of the issue. Dorsey praised Argawal’s response, adding, “I love my teammates.”
+
+I should not have said we didn’t have to share. I have felt strongly that we should. My mistake. https://t.co/Cqbs1KiUWd — Parag Agrawal (@paraga) May 3, 2018
+
+Openly admitting our mistakes quickly, learning, and moving on. I love my teammates. https://t.co/pn9sgUf1Op — jack (@jack) May 3, 2018

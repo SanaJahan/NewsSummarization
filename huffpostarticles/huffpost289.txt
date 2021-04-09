@@ -1,0 +1,35 @@
+Employers who stiff their workers or discriminate against them just got a big lift from the Supreme Court, which issued a major ruling Monday making it easier for companies to avoid employee lawsuits.
+
+The 5-4 ruling upheld employers’ use of class-action waivers in arbitration agreements. By signing these controversial provisions, workers give up their right to band together and sue in court for back pay or damages, and are instead forced to take their disputes to arbitrators individually.
+
+Arbitration agreements have become a common way for employers to stifle lawsuits that could lead to large plaintiff classes and big payouts. Workers backed by employee groups and labor unions challenged their employers’ use of these agreements, claiming they ran afoul of the National Labor Relations Act, or NLRA, which guarantees workers the right to join forces in “mutual aid and protection.”
+
+The employer-friendly conservative majority on the court decided against the workers. They ruled that collective bargaining law does not supersede federal law that established the arbitration process, therefore making the class-action waivers in employment contracts legitimate.
+
+Justice Neil Gorsuch wrote the opinion for the conservative majority, saying Congress did not write the NLRA to “displace” federal arbitration law.
+
+“The policy may be debatable but the law is clear: Congress has instructed that arbitration agreements like those before us must be enforced as written,” Gorsuch wrote.
+
+The high court has previously ruled that companies can force consumers into arbitration agreements with class-action waivers, which are tucked into the fine print when you buy a plane ticket or sign up for a cell phone. The latest ruling effectively sanctions the use of these waivers in the workplace, a practice that has grown increasingly common over the last two decades.
+
+The Supreme Court ruling will have long-lasting implications for workers. Class-action lawsuits are often the most powerful way for employees to secure back pay when their minimum wage or overtime rights have been violated or to secure damages when their bosses run afoul of discrimination laws.
+
+It’s harder to pursue these cases as a single worker than as part of a group, which is why employers prefer arbitration. Lawyers can be reluctant to file individual complaints in which the judgments or settlements will be small and not worth their time. Many workers are also hesitant to file their lawsuits as individuals, fearing their employers will ostracize or retaliate against them.
+
+In a strong dissent, Justice Ruth Bader Ginsburg called the decision of the majority “egregiously wrong.” She argued that the rights under the NLRA include the right to pursue litigation collectively, and that an employer-dictated waiver would violate it.
+
+“Employees’ rights to band together to meet their employers’ superior strength would be worth precious little if employers could condition employment on workers signing away those rights,” Ginsburg wrote.
+
+During oral arguments last year, Justice Stephen Breyer said the case could undermine “the entire heart of the New Deal” by weakening collective action by workers.
+
+According to a report last year from the Economic Policy Institute, an estimated 25 million workers ― just under one-quarter of non-union employees in the private sector ― give up their right to join class-action lawsuits as a condition of employment. The report anticipated that waivers would become an “even more widespread practice” in the event the Supreme Court sanctioned them.
+
+Class-action lawsuits are often the most powerful way for employees to secure back pay when their minimum wage or overtime rights have been violated or to secure damages when their bosses run afoul of discrimination laws.
+
+The Supreme Court case, National Labor Relations Board v. Murphy Oil USA, Inc., consolidated three separate cases involving different employers: the software company Epic Systems, the accounting and consulting firm Ernst & Young, and the oil company and gas station chain Murphy Oil.
+
+A former Murphy Oil employee, Sheila Hobson, claimed that when she worked at one of the company’s retail stores, she and her colleagues were required to do off-the-clock work they weren’t compensated for. They got together to sue the company for back pay. But when they consulted a lawyer, they learned they couldn’t take Murphy Oil to court as a group because they had already agreed to arbitration when they accepted their jobs.
+
+The National Labor Relations Board, the independent agency that enforces collective bargaining law, argued that the forced arbitration clause interfered with Hobson’s right to join together with other employees to improve their working conditions. The Obama White House agreed, filing a brief with the Supreme Court in support of Hobson.
+
+But that was under former President Barack Obama. After President Donald Trump was inaugurated, his administration took the extremely rare step of reversing a previous administration’s position on a sitting case before the court. Last June, Trump’s acting solicitor general filed a new brief in support of the employers in the case.

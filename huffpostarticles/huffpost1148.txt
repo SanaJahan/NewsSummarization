@@ -1,0 +1,13 @@
+Last week at a conference in France, Amazon announced a new Alexa feature that makes it possible to use the smart assistant as a repository for small bits of information. That feature is starting to roll out today to users in the U.S. as “Remember This.”
+
+The skill goes like this: say, “Alexa, remember Brian’s birthday is May 11,” and Alexa will respond, in kind, “Okay. I will remember that Brian’s birthday is May 11.” Then, when you need to remember Brian’s birthday (May 11), you say, “Alexa, when is Brian’s birthday,” to which Alexa will respond, “This is what you told me: Brian’s birthday is May 11.”
+
+Not exactly a vote of confidence, but listen, Alexa is still learning here. For posterity, here are a bunch of other Remember This functions Amazon suggested in an email to TechCrunch earlier today,
+
+Alexa, remember that my niece’s T-shirt size is a medium. Alexa, make a note that Amy is going to China in October. Alexa, remember that Laura’s dog’s name is Bruno. Alexa, remember that I kept the extra blankets in the attic. Alexa, remember Matthew’s teacher’s name is Ms. Sally.
+
+The feature is a bit of catch up for Amazon’s smart assistant — Google Assistant has had a similar feature for a while now. But it’s a handy one, nonetheless, and beats sending emails to yourself or writing stuff down on scraps of paper you’ll inevitably lose — both of my own preferred methods.
+
+Birthdays/t-shirt sizes are one piece in a big push to make Alexa smarter and more conversation that also includes context carryover, which uses recently asked questions to inform answers on new ones. It’s all part of Amazon’s work to compete on context, which has been an advantage for Google’s offering.
+
+More from TechCrunch:

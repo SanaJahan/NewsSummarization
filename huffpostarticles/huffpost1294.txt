@@ -1,0 +1,31 @@
+Bloomberg via Getty Images CEO Mark Zuckerberg says Facebook will rank news organizations to determine the play they get in its News Feed.
+
+MENLO PARK, Calif. ― Facebook CEO Mark Zuckerberg said in a meeting Tuesday with media executives that the company has begun implementing a system of ranking news organizations by trust, relying on user surveys to determine which news sources are “broadly trusted.”
+
+News organizations that scored higher on the ranking would be promoted in Facebook’s News Feed, while those with lower trust scores would be suppressed, Zuckerberg said. The effort is part of Facebook’s pledge to “take a broader view of our responsibilities,” he said after a bruising year in which the platform has been criticized for being used to undermine elections, foment division and spread hate speech.
+
+Zuckerberg’s remarks came after his keynote address at Facebook’s F8 developer conference, in which he unveiled a series of new features on the platform. He met with executives from The New York Times, BuzzFeed, Atlantic Media, CNN, News Corp., HuffPost and other news organizations at a conference of media leaders convened by The Information, a technology news site.
+
+The usually reticent CEO has been on a charm offensive of sorts in the last month, testifying before Congress, granting extensive interviews to news organizations and speaking contritely and publicly about how the company he started in his Harvard dorm room has grown to have an unanticipated and highly negative impact on democracy across the globe.
+
+Zuckerberg said that Facebook has a responsibility to help reduce polarization and help people find “common ground” and that a shared set of facts and a common understanding of truth is essential for democracy.
+
+“It’s not useful if someone’s just kind of repeating the same thing and attempting to polarize or drive people to the extremes,” Zuckerberg said.
+
+He said he hoped Facebook could help find sustainable business models for journalism and acknowledged the company’s responsibility to “support the institution of journalism.”
+
+The rise of mammoth technology platforms like Facebook and Google has obliterated the balance sheets of news organizations across the globe as they suck up the vast majority of digital advertising dollars.
+
+But Facebook has no plans to begin paying news companies for the journalism the media publish on Facebook.
+
+“I’m not sure that makes sense,” Zuckerberg said. Cable companies pay news organizations like CNN, MSNBC and Fox News lucrative carriage fees in exchange for their content, and news executives like Rupert Murdoch and Jonah Peretti of BuzzFeed have begun agitating for Facebook to begin paying them as well.
+
+It’s not useful if someone’s just kind of repeating the same thing and attempting to polarize or drive people to the extremes. Facebook CEO Mark Zuckerberg
+
+And while Facebook has made it easier for news organizations to sell subscriptions on its platforms, it has offered little to news outlets that rely on digital advertising to provide their news reports free to readers.
+
+He said Facebook plans to spend “billions and billions of dollars” to combat fake news, misinformation and hate speech.
+
+“We’re going to have tens of thousands of people doing content review,” Zuckerberg said. Facebook is developing artificial intelligence tools to combat these problems on its platforms, but Zuckerberg acknowledged that it would take “five to 10 years” for that technology to be effective.
+
+Zuckerberg also outlined steps Facebook plans to take to reduce the risk of foreign meddling in the midterm elections in November, saying that the company was “essentially going to be losing money on running political ads” because of the rigorous human review process it has put in place. Political advertisers will have to provide a government-issued ID and confirm their location inside the United States using a code mailed to them by the Postal Service, he said.

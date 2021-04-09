@@ -1,0 +1,45 @@
+In June 2018, there will be 2,823 emoji in the Unicode Standard ― the global specification that ensures characters are interpreted the same across platforms. But nowhere in that list ― which has everything from zombies (both male and female!) to smiling poop ― is there an emoji to signify birth control. At least, not yet.
+
+This April, Nora Hamada and her friend Megan Giller, sent in an application to the Unicode Consortium for what they believe is the first-ever emoji to represent birth control (Disclaimer: Giller freelances for Engadget as a copy editor). Hamada came up with the idea earlier this year when she joined an emoji proposal workshop in New York City out of curiosity. The workshop was run by Emojination, a grassroots organization dedicated to making emoji more inclusive. Emojination was created because the Unicode Consortium, the organization that selects and approves of emojis, is mostly comprised of multinational tech companies. There are 12 full voting members, which include Apple, Adobe, Facebook, Google, Huawei, IBM, Microsoft, Netflix, Oracle, German software company SAP and Shopify. The only non-tech entity in this list is the government of Oman. In order to be a full voting member, you have to pay $18,000 a year (There are lower membership tiers as well, but not all of them have voting privileges). Emojination co-founder Jennifer 8. Lee found it odd that just a handful of corporate and government entities decide the world’s emoji. Now, she helps people submit applications for emoji they think is missing from our cultural lexicon. Some of Emojination’s more successful projects include the dumpling (universal cross-cultural food), the hijab (muslim women representation) and the ballet flat (a woman’s shoe that’s not a high heel).
+
+Getty Images
+
+Lee happened to be the one leading the Emojination workshop the day Hamada attended. Hamada was inspired by Lee’s story, and was fascinated that anybody ― even you and me ― can submit an emoji application. She thought about what new emoji she could introduce that would be a positive change to the world.
+
+“I immediately came up with the birth control emoji,” said Hamada. “When you search for emoji to represent women and safe sex, the things that come up most often are breastfeeding and babies.” But she feels that there should also be an emoji for women like herself, who have decided not to have children. Giller feels the same way, which prompted their collaboration.
+
+Hamada and Giller posit that the invention of the birth control pill in the 1960s also signifies a historical turning point, where women were finally able to take control over their own bodies and subsequently, their own lives. A Smithsonian magazine article in 2013 noted that “the successes of the feminist movement, and the mass entry of women into the workforce, the professions and academia, might not have been possible without the pill’s power of predictability.”
+
+As such, Hamada and Giller believe that the birth control pill is also a symbol for feminism and female empowerment. “It stands for equality and the right to choose,” said Giller. “Frankly, I can’t believe a birth control emoji had never been done before,” said Hamada.
+
+Durex
+
+Well, that’s almost true. Back in 2015, condom-maker Durex applied for a condom emoji to be added to the Unicode Standard. It even ran a publicity campaign on social media and elsewhere to promote the idea, complete with a #CondomEmoji hashtag. “An official safe sex emoji will enable young people to overcome embarrassment around the discussion of safe sex,” the company claimed, adding that it would also raise awareness of protection against STDs.
+
+Ultimately though, the condom emoji application was denied. Engadget was unable to get an answer as to why from Unicode or Durex, but through conversations with Hamada, Giller and Lee, there are a few possible reasons.
+
+One is that the condom emoji application was spearheaded by a company that would benefit financially from the popularization of said emoji, and that might not have been acceptable. Lee also said that the proposal itself likely was not a very good one (you can study it for yourself here). Another, more official answer, is that Unicode turned it down because industry partners like Facebook and Google didn’t support it, perhaps for not being family-friendly enough.
+
+When asked why she thinks there might not have been a birth control emoji before, Hamada says that it could be because Unicode is an international organization, and is therefore averse to anything deemed too political. “There are groups of people that look down on birth control,” she said. “It’s possible that’s part of it.”
+
+Barcroft Media via Getty images
+
+“Remember that the emoji are universally implemented on keyboards around the world,” said Lee. “So the emoji have to be things vendors [like Apple and Google] are comfortable putting in all markets and all cultures.” She pointed out, for example, that the same sex family emoji was frowned upon in Russia, and that alcohol emoji like wine and beer was an issue in Muslim countries. Unicode got around the latter issue by calling them “wine glass” and “beer mug” emoji respectively, which was deemed acceptable.
+
+Perhaps savvy to this nuance in language, Hamada and Giller titled their emoji “Pills in a circular case.” But it was still clearly defined as an emoji symbolizing birth control, complete with a lengthy description as to the historical importance of the pill and how relevant it is in today’s society. They also included various cases in which it would be suitable, and how it’s frequently requested in social media.
+
+The emoji is that of a circular case because of its iconic imagery, which Hamada and Giller say is generally recognized as synonymous with the pill. Using the standard pill emoji is insufficient, they argue, because that’s often used in reference to illegal drugs and parties. On the other hand, using other emoji like eggplant, hot dog and lipstick to talk about safe sex isn’t right either. There are examples of workarounds like a baby emoji followed by a giant X and then a pill, but that’s a little too complex.
+
+Aphee Messer Birth control pill emoji version 1 and version 2
+
+Hamada and Giller made their case in a lengthy nine-page application, which they compiled and submitted with the help of Lee and Emojination. Lee also matched them with a designer, who created a mock up of what the emoji might look like.
+
+After a few weeks, the Unicode Emoji Subcommittee ― which processes all the emoji applications ― came back asking for some revisions. They wanted a different version of the image ― the first one was tilted to the side, so it wasn’t as obvious as to what it was ― along with some statistics that would compare its use against an already existing emoji. They had the designer create a newer, cleaner emoji, and are now working on including those aforementioned stats.
+
+Of course, it’s still early days, and the application process is a fairly lengthy one. Unicode says on its site that it often takes up to two years for an emoji to go from application to approval. And even then, each of the vendors (eg. Apple, Google, Facebook) need time to create their own version for their platform.
+
+Hamada remains hopeful. After all, the subcommittee didn’t outright deny it, and seemed to express some interest. In the meantime, Hamada said they were recently interviewed as part of an upcoming yet-to-be-named documentary about emoji. “I find the whole process fascinating,” she said.
+
+Plus, she thinks the application is particularly timely during a climate where female reproductive rights might be in danger. “Our rights for birth control are being taken away. In a way, this is a small form of protest against that.”
+
+Related Articles:
