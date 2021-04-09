@@ -1,0 +1,87 @@
+Joy Reid claims a recent batch of screenshots appearing to show homophobic statements on her now-defunct blog are “fraudulent” and the result of a cyberattack.
+
+However, several aspects of the cyberattack claim seem highly questionable.
+
+The host of MSNBC’s “AM Joy” came under fire this week after a Twitter user shared screenshots of anti-LGBTQ content Reid had seemingly written between 2005 and 2009 for her old blog, The Reid Report.
+
+Reid apologized in December for writing homophobic posts about former Florida Gov. Charlie Crist (D) between 2007 and 2009 after Twitter user @Jamie_Maz shared screenshots of the posts.
+
+Last week, @Jamie_Maz tweeted dozens more screenshots, also allegedly from Reid’s old blog, that included statements such as “most straight people cringe at the sight of two men kissing” and “adult gay men tend to be attracted to very young, post-pubescent types.”
+
+Yet this time around, Reid has steadfastly denied writing the posts. She released the following statement to Mediaite on Monday:
+
+In December I learned that an unknown, external party accessed and manipulated material from my now-defunct blog, The Reid Report, to include offensive and hateful references that are fabricated and run counter to my personal beliefs and ideology. I began working with a cyber-security expert who first identified the unauthorized activity, and we notified federal law enforcement officials of the breach. The manipulated material seems to be part of an effort to taint my character with false information by distorting a blog that ended a decade ago. Now that the site has been compromised I can state unequivocally that it does not represent the original entries. I hope that whoever corrupted the site recognizes the pain they have caused, not just to me, but to my family and communities that I care deeply about: LGBTQ, immigrants, people of color and other marginalized groups.
+
+This statement raises a number of questions, however. To accept Reid’s hacking claim at face value, you would also need to explain at least some of the following:
+
+1.) Why would someone hack Joy Reid’s blog repeatedly for years, at a time when she had a much lower profile?
+
+The screenshots circulated this week were allegedly captured using Internet Archive’s Wayback Machine, an expansive digital library that archives sites in real time so people can continue to access the pages. HuffPost confirmed several of the alleged posts captured in the screenshots could be found on Wayback Machine.
+
+Jonathan Nichols, a cybersecurity consultant hired by Reid, said in a statement Monday that “fabricated” posts were not a result of a cyberattack against Wayback Machine, but against The Reid Report.
+
+Since Wayback Machine captures sites in real time, this means someone would have had to hack Reid’s blog numerous times between 2005 and 2009. If someone hacked her blog recently and attempted to change the timestamps to a previous year, Wayback Machine would still archive the posts according to the date they were actually hacked.
+
+Nichols confirmed to HuffPost that he believes the blog was hacked in that period, but would not say exactly when. He later told HuffPost the recent screenshots themselves could also have been manipulated ― a separate issue from the alleged blog hacking. (More on that to come).
+
+It’s unclear who would repeatedly target Reid in the mid-to-late-2000s, more than a decade before she rose to national fame with MSNBC. Reid’s Wikipedia page wasn’t even created until 2014.
+
+2.) Why didn’t Reid notice that someone else was posting content under her name on her own blog?
+
+Reid and Nichols both claim her blog was repeatedly hacked in the mid-2000s ― and yet the journalist apparently never noticed until December 2017.
+
+“I don’t think that’s too much of a stretch,” Nichols told HuffPost. “Why would anyone go back to their own blog to check to see if what they posted was authentic?”
+
+For example, an allegedly fraudulent post was added on March 7, 2005. On March 9, 2005, Reid published a post that has not been called into question. Wouldn’t the supposedly unfamiliar post have caught her eye when she added the next one?
+
+Nichols also argued that the lack of comments on the disputed posts suggests the blog was hacked. But there don’t appear to be any comments on most of the posts from the mid-2000s.
+
+3.) Are the bigoted statements really such a departure from the statements Reid has already owned up to?
+
+Reid took responsibility in December for writing the homophobic statements captured in the screenshots @Jamie_Maz initially shared. In the several posts dated between 2007 and 2009, she accused Crist of being a closeted gay man and mocked him by calling him “Miss Charlie.”
+
+“It was insensitive, tone-deaf and dumb,” Reid wrote in her apology statement. “There is no excusing it — not based on the taste-skewing mores of talk radio or the then-blogosphere, and not based on my intentions.”
+
+1/x From 2007 to 2009 @joyannreid authored a dozen homophobic posts not only attempting to out Charlie Crist as gay, she attacked & mocked him for being so.
+
+
+
+She repeatedly referred to him as "Miss Charlie" and tagged posts about him under "gay politicians." (thread) pic.twitter.com/tRYvJ3lTc8 — Not a bot (@Jamie_Maz) November 30, 2017
+
+Reid’s Twitter profile has been a platform for insensitive comments toward gay people in the past:
+
+RT @TheReidReport Anti-gay Christian psychologist’s gay rentboy says he was a cheap date http://bit.ly/c1X9mg — Joy Reid (@JoyAnnReid) May 6, 2010
+
+"@mediaite: Report: Elton John, Who Is Gay, To Perform At Rush Limbaugh’s Wedding http://bit.ly/cV0VoS FM" /Elton to serenade the beard — Joy Reid (@JoyAnnReid) June 5, 2010
+
+The more recent screenshots @Jamie_Maz shared don’t sound very different from what Reid has already admitted she wrote.
+
+“Does that make me homophobic? Probably,” Reid allegedly wrote about her disinterest in seeing “Brokeback Mountain” in a newly released but disputed post from 2007. “For the record, I’m sure gay people think straight sex is gross, too, it’s just that the nature of political correctness is that gay people are allowed to say straight sex is gross, but the reverse is considered to be patently homophobic.”
+
+4.) Are the screenshots fake, or was the blog hacked?
+
+Nichols’ position about the authenticity of the screenshotted posts ― whether they were forged or genuine screenshots from Reid’s hacked site ― isn’t clear.
+
+“We have significant evidence indicating that not only was Ms. Reid’s old blog compromised, some of the recently circulated posts were not even on the site at any time, suggesting that these instances may be the result of screenshot manipulation with the intent to tarnish Ms. Reid’s character,” Nichols wrote in his statement Tuesday.
+
+@Jamie_Maz has repeatedly denied altering the screenshots, aside from underlining statements in red to highlight specific statements.
+
+In his statement Tuesday, Nichols also discussed these same posts as if they had truly appeared on the site: “Oddly, there were no responses in the comments section of the entries, despite the inflammatory nature of the posts. If those posts were real, they would have undoubtedly elicited responses from Ms. Reid’s base.”
+
+Nichols told HuffPost on Wednesday that most of the recent screenshots @Jamie_Maz shared have been manipulated to appear as though they were captured from Reid’s blog, but had never existed on the blog before or after it was hacked.
+
+However, HuffPost was able to find many of the posts in the Wayback Machine archives.
+
+38/x Joy writes that the “gayest thing on TV” is Anderson Cooper. pic.twitter.com/yyBVcpr58U — Not a bot (@Jamie_Maz) April 18, 2018
+
+Wayback Machine
+
+When asked for clarification, Nichols appeared to walk back his statement that most of the recent screenshots had never existed on the site.
+
+“I would suspect that that is one of the fake posts,” Nichols told HuffPost. “I would defer to Joy on any specific instance.”
+
+The Library of Congress, which uses a local installation of the Wayback Machine, contains the disputed posts, CNN reported Tuesday. Archive.today, another archiving site, also contained the posts, HuffPost discovered.
+
+HuffPost asked Nichols whether he had sent letters to these sites requesting they remove the posts and help with the investigation into the alleged hacking, as he did in December with Google and the Internet Archive. He replied that he had not.
+
+“The initial engagement with archive.org was in an attempt to see whether [their] hack and ours was correlated,” he wrote in an email to HuffPost on Wednesday. “After we gained a deeper understanding, the discussion switched to simply pulling down the fraudulent posts.”

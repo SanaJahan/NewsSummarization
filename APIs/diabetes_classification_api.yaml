@@ -1,0 +1,72 @@
+swagger: '2.0'
+info:
+  title: Diabetes Classification API
+  version: "0.1"
+  description: An API that can classify information about patients into diabetic or not
+
+paths:
+  /health:
+    get:
+      summary: Checks the health of the service
+      description: Returns the health status of the service
+      operationId: diabetes_classification_api.health
+      responses:
+        '200':
+          description: Service is healthy
+        '500':
+          description: Service is unhealthy
+
+  /predict:
+    post:
+      summary: Entrypoint to our prediction function
+      operationId: diabetes_classification_api.predict
+      consumes:
+      - multipart/form-data
+      produces:
+      - application/json
+      parameters:
+        - in: formData
+          name: pregnancies
+          required: true
+          description: The number of pregnancies of this patient
+          type: number
+        - in: formData
+          name: glucose3
+          required: true
+          description: Glucose level of the patient
+          type: number
+        - in: formData
+          name: blood_press
+          required: true
+          description: Blood pressure of the patient
+          type: number
+        - in: formData
+          name: skin_thick
+          required: true
+          description: Skin thickness of the patient
+          type: number
+        - in: formData
+          name: insulin
+          required: true
+          description: Insulin level of the patient
+          type: number
+        - in: formData
+          name: bmi
+          required: true
+          description: BMI of the patient
+          type: number
+        - in: formData
+          name: diab_func
+          required: true
+          description: Diabetes pedigree function of the patient
+          type: number
+        - in: formData
+          name: age
+          required: true
+          description: Age of the patient
+          type: number
+      responses:
+        '200':
+          description: Classification performed successfully
+        '500':
+          description: Unable to perform the classification

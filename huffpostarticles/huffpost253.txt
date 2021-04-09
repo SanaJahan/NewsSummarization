@@ -1,0 +1,37 @@
+WASHINGTON ― Congress sent a bill to President Donald Trump’s desk Tuesday intended to roll back regulations adopted after the 2008 financial crisis, weakening consumer protection and modestly increasing the risk of another banking collapse.
+
+The bill’s passage marks the second major legislative victory for both Trump and the financial sector, following last year’s tax cut. The package will benefit banks both large and small, limit consumer remedies against credit reporting agencies including the scandal-plagued Equifax, curb the government’s ability to collect data on racial discrimination in the housing market, and allow large regional banks to rely on more risky debt to finance their operations.
+
+Tuesday’s 258-159 House vote came as banks are posting record profits thanks to a stronger economy and lower tax rates. The U.S. banking industry posted a combined $56 billion profit in the first quarter of 2018, according to the Federal Deposit Insurance Corporation, its best three-month stint in history. Community banks ― smaller institutions in rural parts of the country that proponents of the bill claimed were in need of particular aid ― also posted billions in net profits.
+
+Nevertheless, banks still need deregulation, Rep. Tom Cole (R-Okla.) said.
+
+“Big banks keep getting bigger,” Cole told HuffPost on Tuesday. “Small banks are being regulated out of existence.”
+
+With Republicans in control of the House, the bill’s eventual approval was a fait accompli after 17 Senate Democrats voted for it in March.
+
+The 2010 Dodd-Frank financial reform law included a host of consumer protections and risk management rules that apply to all banks. But it applied tougher rules to the largest banks, since the failure of a large firm can have dire consequences for the broader economy. Banks with at least $50 billion in assets have to undergo frequent stress-testing by the Federal Reserve to determine whether they could withstand an unexpected financial shock. They must finance their operations with more capital and less borrowed money, and they have to keep more cash on hand.
+
+The bill approved Tuesday would change the definition of what constitutes the biggest banks, freeing banks with up to $250 billion in assets from these tougher rules. Huge regional players like BB&T and SunTrust would be exempted, as would foreign conglomerates with trillions of dollars in global assets ― like Deutsche Bank, Credit Suisse and UBS ― that keep less than $250 billion of their assets in the United States.
+
+“Clearly the distress or failure of some of these banks could trigger reactions spreading broadly to the financial system,” former Federal Reserve Chair Paul Volcker wrote in a letter to Sen. Sherrod Brown (D-Ohio), who voted against the legislation. Volcker in particular highlighted the risks posed by curtailing oversight of “several large foreign banks,” suggesting that a $100 billion threshold would be more appropriate.
+
+When the Congressional Budget Office analyzed the legislation in March, it concluded that while the risk of another banking crash in any specific year was small, the odds “would be slightly greater under the legislation.”
+
+The risk would be worth making it easier for small and intermediate-sized banks to provide credit, Rep. Frank Lucas (R-Okla.), a senior member of the House financial services committee, said Tuesday. “Everything in life is a balancing act.”
+
+Banking analysts also expect large regional banks to acquire more small community lenders as a result of the bill, since they will not be penalized with tougher regulations for growing past the $50 billion mark.
+
+The subprime mortgage crisis revealed that banks had systematically steered families of color into expensive, predatory loans. Dodd-Frank sought to address this in part by requiring lenders to report a host of data to the Consumer Financial Protection Bureau. In addition to basic facts about loan approval or denial, lenders had to report a borrower’s age and credit score, as well as the property value of the home being purchased, the interest rate, loan terms, and other pricing features of each mortgage. The CFPB could use all of this data to determine whether families of color were being improperly overcharged or pushed into bad loans.
+
+The bill approved Tuesday would exempt 85 percent of banks from those new anti-discrimination reporting requirements, in an effort to save paperwork costs. A host of civil rights organizations, including the NAACP, the National Fair Housing Alliance, the National Urban League and the Leadership Conference on Civil and Human Rights, have all assailed the provision.
+
+The bill also contains several provisions that are supposed to benefit consumers, such as by requiring credit monitoring firms to let people freeze their credit reports, which contain personal financial information that companies like Equifax, Experian and TransUnion collect without prior consent. Equifax proved a poor custodian of that information last year when the company announced hackers had stolen personal data relating to more than 140 million Americans.
+
+Consumer advocates say the supposed benefits are actually a mixed bag, because some provisions would preempt more generous state laws and others could prevent consumers from joining class-action lawsuits.
+
+One provision is a straightforward giveaway to Equifax and its ilk, since it would force government-backed mortgage companies to consider using their credit-scoring algorithm as part of the home lending process. Liberal and conservative groups alike, as well as other housing finance stakeholders, oppose the provision.
+
+Rep. Tom MacArthur (R-N.J.), another member of the House financial services committee, dismissed concerns about restricting consumers from being able to join class-action lawsuits, noting that they can still settle disputes by arbitration.
+
+“You’re choosing to focus on one of the credit rating agencies,” he told HuffPost when asked how the bill would affect Equifax. “I think that goes far beyond the very narrow focus that you’re taking on it. Consumers should always have remedies for bad actors, always.”

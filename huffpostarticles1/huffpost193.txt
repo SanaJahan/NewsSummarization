@@ -1,0 +1,53 @@
+Shari Forrest is working at the cutting edge of self-driving car technology, helping robotic vehicles understand the world around them. But Forrest is no artificial intelligence expert beavering away in Silicon Valley for a multimillion-dollar bonus. She’s a 55-year-old freelancer in a small Missouri town, writing word problems for kids by day and building our autonomous future in her spare time, for pennies.
+
+Forrest works for Mighty AI, a crowd-working company that uses people to teach robotic systems how to drive. She is, effectively, the self in the self-driving car. She does this by interpreting pictures and videos, painstakingly outlining and labeling vehicles, people, cyclists, road signs and trees with her computer mouse, or on a smartphone with her finger.
+
+“I started with some hesitation. Because, really, it’s like 1 cent for that?” she says. “But I thought, when I’m taking a break from work and want to let my mind relax for a bit, I can do that. We’ll just see where this goes.”
+
+A year later, Forrest had earned a total of $307. “There are days when I’m like, hmm, I wonder how much money they’re making off of us,” she says. “And then there are days when I’m getting a little enjoyment out of it and some pocket money, no big deal.”
+
+Forrest is part of a new digital workforce eking out a living, or making extra cash working with and for AI. There are millions of people already busy on crowd-working platforms like Mighty AI, Amazon Mechanical Turk or Figure Eight, and many millions more whose jobs are now shaped by automation and AI. While the threat of robots stealing our jobs looms large, a much more immediate concern is that automation and AI are already massively changing the way we work. And not always for the better.
+
+A study commissioned by the Organization for Economic Cooperation and Development group of developed countries found that about half of all jobs are likely to be significantly affected by automation in terms of the tasks involved. But for every worker who loses a job to automation, two face changes in the way they work, according to the research.
+
+New technologies have always altered employment patterns, destroying some jobs and creating others. Think the Industrial Revolution decimating cottage industries but enabling factory work, or the internal combustion engine disrupting animal-based transportation, even as driving jobs emerged.
+
+But the coming robotics revolution could slash employment with vastly increased efficiencies. Take self-driving cars. Industry leader Waymo, a subsidiary of Google’s Alphabet, has been valued at $40 billion to $140 billion – more than the Ford Motor Co. But Ford employs over 200,000 workers, many in decent-paying, unionized blue-collar roles. Waymo has fewer than 1,000 full-time staffers.
+
+Self-driving car companies have plenty of highly paid AI and robotics experts, of course. But much of the data they rely on is coming from people around the world sitting at their computers, or from drivers in computerized cars criss-crossing cities, with little job security.
+
+Similarly, content platforms like Facebook and Instagram have AI systems that automatically scour uploads for hate speech or sexual imagery, but someone has to train those systems and adjudicate edge cases. Some of these people are individual crowd-workers. Others work for moderation companies that outsource the work to people in India and elsewhere.
+
+Because of the scale of the data that people are working with ― millions of roads and billions of social media posts ― many workers in the new digital economy have roles that put them at the mercy of an algorithmic regime, rather than a human boss, and they often have few rights of recourse should anything go wrong.
+
+“The workforce on Mechanical Turk is always turning over,” explains Michael Bernstein, an assistant professor in the Human-Computer Interaction Group at Stanford University. “There are always new people. Even if one subset of workers says we don’t like this employer, we’re going to stop working for them, everyone else will still work for them. The American workers don’t think it’s good, but the workers in India, they don’t mind.”
+
+Bernstein tried to set up a crowd-working guild called Dynamo in 2014 to enable collective action, but it was quashed by Amazon.
+
+There are similar issues in another growing area of work where AIs manage and oversee complex distributed systems ― ride-hailing. Every Uber driver depends on the company’s algorithms to present them with trips they might want. Drivers who turn down or cancel too many rides can be locked out of the app or have their account deactivated. Efforts by Uber and Lyft drivers in Seattle to unionize are facing legal challenges from the U.S. Chamber of Commerce (which includes Uber and Lyft). The group says allowing drivers to bargain over pay would violate federal antitrust rules.
+
+“Antitrust laws were put in place to protect the little guy from monopolistic practices from large corporations, not to shield a company like Uber – valued at over $70 billion – from negotiating with its workers over fair pay and working conditions,” says Don Creery, an Uber and Lyft driver.
+
+Carlos Jasso / Reuters An Uber driver checks the Uber app inside his car in Mexico City, Mexico.
+
+A common feature of gig work in the digital economy is that workers never have direct contact with human colleagues or managers. Instead, their priority is satisfying algorithms. “One frustrating piece is how the tasks get served up,” says Forrest, “It will show a task is available, you’ll click on it and it’ll say no more tasks available. There are just so many people on their site clicking at the same time.”
+
+Forrest is valued for her perception and dexterity, but machines must be able to easily work with what she produces. The digital systems of crowd-working leave little room for human creativity or ambiguity. As robots increasingly embody those digital systems, that way of working extends into the physical world. In January, Amazon was granted patents for wristbands that can pinpoint the location of human employees within the company’s vast warehouses, and buzzes if a worker is about to select an incorrect item for packing.
+
+But our automated future does not look like digital piecework for everyone. For some workers, having robots deal with mundane tasks could free them to focus on more challenging or enjoyable duties.
+
+Leo Tsurankou also works with highly automated cars ― but at the other end of the algorithmic pipeline. His job is to step in and take over when the software trained by workers like Forrest fails.
+
+However, Tsurankou is not sitting in the car itself, but in a comfy office chair in the offices of Phantom Auto, a Silicon Valley startup. Phantom has developed a remote control system that works over mobile networks, allowing drivers at its headquarters to operate a vehicle hundreds of miles away, using monitors, a simulated steering wheel, and a game controller.
+
+Tsurankou, who used to be a test driver for Uber’s self-driving vehicles, enjoys his job. “I prefer the comfort of an office, where I get more social interaction and can ask someone to step in if I need a break.”
+
+Although Tsurankou can only directly control one vehicle at a time, Phantom predicts a single human operator could one day oversee five or more automated vehicles, only taking over when they encounter tricky situations. Each remote operator like Tsurankou could mean four of today’s drivers losing their jobs.
+
+In fact, the Organization for Economic Cooperation and Development report predicts that robotics and artificial intelligence will put more low-skilled jobs at risk than previous waves of technological progress. With a few exceptions, such as care workers, the jobs most at risk from automation are those requiring the lowest levels of skill and education.
+
+In the near future, it seems that the very people who are least equipped to work with and for algorithms and robots are those who will be expected to do so first. Uber’s biggest impact on society could turn out to be not its sharing or gig economy, but the normalization of bosses sitting in a server farm rather than a corner office, and the eradication of anything approaching a career path.
+
+For more content and to be part of the “This New World” community, follow our Facebook page.
+
+HuffPost’s “This New World” series is funded by Partners for a New Economy and the Kendeda Fund. All content is editorially independent, with no influence or input from the foundations. If you have an idea or tip for the editorial series, send an email to thisnewworld@huffpost.com

@@ -1,0 +1,49 @@
+MENLO PARK, Calif. (Reuters) - Facebook Inc on Tuesday released a rule book for the types of posts it allows on its social network, giving far more detail than ever before on what is permitted on subjects ranging from drug use and sex work to bullying, hate speech and inciting violence.
+
+Facebook for years has had “community standards” for what people can post. But only a relatively brief and general version was publicly available, while it had a far more detailed internal document to decide when individual posts or accounts should be removed.
+
+Now, the company is providing the longer document on its website to clear up confusion and be more open about its operations, said Monika Bickert, Facebook’s vice president of product policy and counter-terrorism.
+
+“You should, when you come to Facebook, understand where we draw these lines and what’s OK and what’s not OK,” Bickert told reporters in a briefing at Facebook’s headquarters.
+
+Facebook has faced fierce criticism from governments and rights groups in many countries for failing to do enough to stem hate speech and prevent the service from being used to promote terrorism, stir sectarian violence and broadcast acts including murder and suicide.
+
+At the same time, the company has also been accused of doing the bidding of repressive regimes by aggressively removing content that crosses governments and providing too little information on why certain posts and accounts are removed.
+
+New policies will, for the first time, allow people to appeal a decision to take down an individual piece of content. Previously, only the removal of accounts, Groups and Pages could be appealed.
+
+Facebook is also beginning to provide the specific reason why content is being taken down for a wider variety of situations.
+
+Facebook, the world’s largest social network, has become a dominant source of information in many countries around the world. It uses both automated software and an army of moderators that now numbers 7,500 to take down text, pictures and videos that violate its rules. Under pressure from several governments, it has been beefing up its moderator ranks since last year.
+
+Bickert told Reuters in an interview that the standards are constantly evolving, based in part on feedback from more than 100 outside organizations and experts in areas such as counter-terrorism and child exploitation.
+
+“Everybody should expect that these will be updated frequently,” she said.
+
+The company considers changes to its content policy every two weeks at a meeting called the “Content Standards Forum,” led by Bickert. A small group of reporters was allowed to observe the meeting last week on the condition that they could describe process, but not substance.
+
+At the April 17 meeting, about 25 employees sat around a conference table while others joined by video from New York, Dublin, Mexico City, Washington and elsewhere.
+
+Attendees included people who specialize in public policy, legal matters, product development, communication and other areas. They heard reports from smaller working groups, relayed feedback they had gotten from civil rights groups and other outsiders and suggested ways that a policy or product could go wrong in the future. There was little mention of what competitors such as Alphabet Inc’s Google do in similar situations.
+
+Bickert, a former U.S. federal prosecutor, posed questions, provided background and kept the discussion moving. The meeting lasted about an hour.
+
+Facebook is planning a series of public forums in May and June in different countries to get more feedback on its rules, said Mary deBree, Facebook’s head of content policy.
+
+FROM CURSING TO MURDER
+
+The longer version of the community standards document, some 8,000 words long, covers a wide array of words and images that Facebook sometimes censors, with detailed discussion of each category.
+
+Videos of people wounded by cannibalism are not permitted, for instance, but such imagery is allowed with a warning screen if it is “in a medical setting.”
+
+Facebook has long made clear that it does not allow people to buy and sell prescription drugs, marijuana or firearms on the social network, but the newly published document details what other speech on those subjects is permitted.
+
+Content in which someone “admits to personal use of non-medical drugs” should not be posted on Facebook, the rule book says.
+
+The document elaborates on harassment and bullying, barring for example “cursing at a minor.” It also prohibits content that comes from a hacked source, “except in limited cases of newsworthiness.”
+
+The new community standards do not incorporate separate procedures under which governments can demand the removal of content that violates local law.
+
+In those cases, Bickert said, formal written requests are required and are reviewed by Facebook’s legal team and outside attorneys. Content deemed to be permissible under community standards but in violation of local law - such as a prohibition in Thailand on disparaging the royal family - are then blocked in that country, but not globally.
+
+The community standards also do not address false information - Facebook does not prohibit it but it does try to reduce its distribution - or other contentious issues such as use of personal data.

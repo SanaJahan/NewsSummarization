@@ -1,0 +1,19 @@
+What do puppies, Mark Zuckerberg’s musings and a five-night family vacation in the Bahamas for the low, low price of $497 per person have in common?
+
+Facebook thought they might be hate speech.
+
+The social media platform kicked off its annual Facebook Developers Conference on Tuesday morning, and it inadvertently deployed an update to the site before the conference to help it identify hate speech.
+
+That premature rollout led to an amusing half-hour or so as Facebook asked users to identify whether harmless posts were hate speech:
+
+i mean this is hilarious pic.twitter.com/GDtUsrrlzU — Gene Park (@GenePark) May 1, 2018
+
+All of a sudden Facebook has added a button to EVERY SINGLE POST ON MY FEED asking if it’s hate speech. pic.twitter.com/mvfzJSkfk9 — Sean Breslin (@Sean_Breslin) May 1, 2018
+
+A Facebook representative said in an emailed statement that a bug was responsible for the mix-up.
+
+“This was an internal test we were working on to understand different types of speech, including speech we thought would not be hate,” the statement read. “A bug caused it to launch publicly. It’s been disabled.”
+
+Guy Rosen, Facebook’s vice president of product, said the bug was fixed within 20 minutes:
+
+Some people saw 'does this post contain hate speech' today on some posts. This was a test - and a bug that we reverted within 20 mins. It was shown for a short time on posts regardless of their content (like this one). pic.twitter.com/iuNKSVTOqQ — Guy Rosen (@guyro) May 1, 2018

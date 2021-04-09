@@ -1,0 +1,33 @@
+Officials in Knox County, Tennessee, are trying to gather more information about a cyberattack that crashed a government website that displayed election results to the public during its primary election for local offices on Tuesday.
+
+Dick Moran, the county’s top IT official, believes Knox County was the target of a denial-of-service attack in which actors with both domestic and foreign IP addresses deliberately flooded the county’s servers with traffic to try and crash them. The county website displaying election results went down for about an hour as polls closed on Tuesday. The crash meant that people who went to check election results between 8 and 9 p.m. on election night received an error message, according to the Knoxville News Sentinel. While the website was down, election officials printed out hard copies of the election results and gave them to reporters, WBIR, a local NBC affiliate, reported.
+
+Knox County Mayor Tim Burchett (R) said on Wednesday that the crash didn’t impact “vote tallies or the integrity of the election,” but that the county had hired a security firm to investigate the cause of the crash.
+
+“This is not something that should happen,” he said in a statement. “I want to know what happened, and I think an independent review will help to determine that so we can move forward and work to prevent similar issues in the future.”
+
+The attack comes amid increased scrutiny over the security of U.S. elections after the Department of Homeland Security notified 21 states last year that Russian hackers targeted their election systems during the 2016 presidential election. Some say the federal government hasn’t moved quickly enough to address the severity of the threat. Responding to those concerns, Congress allocated $380 million to states in March to improve election security. DHS officials say they have improved communication and resource-sharing with state election officials.
+
+Scott McConnell, a DHS spokesman, said the agency was aware of the incident.
+
+“We are aware of reports of a temporary outage affecting an election website in Knox County, Tenn. We have no information at this time that the outage was caused by a malicious actor,” McConnell said in a statement. “As is standard practice with any of our public or private critical infrastructure partners, we have offered our technical assistance and support to the county. We defer to the county to discuss any further details.”
+
+Candice Hoke, a co-founder of the Center for Cybersecurity and Privacy Protection at Ohio’s Cleveland-Marshall College of Law, said it was premature for Burchett to say that no votes had been changed.
+
+“Without a forensic evaluation, there’s no way for them to accurately conclude that ‘the crash did not affect the vote tallies or the integrity of the election,’” she wrote in an email. “We do not know if only the web servers were impacted by the attack or if a broader impact occurred. It’s often the case that a DDOS attack is used as a distraction while another more insidious attack — such as on the tabulation servers — is occurring.”
+
+Hoke added that it was a positive sign that the county was bringing in a firm to analyze the incident, but wanted to know how thorough the analysis would be and whether the final report would be publicly available. She also said it was uncommon to see a denial of service attack on an election night, but expected them to increase this year because counties now store much more voter information online.
+
+In an interview, Michael Grider, the Knox County director of communications, and David Ball, the county’s deputy director of IT, disputed Hoke’s assessment that any votes could have been altered because the systems that tabulate the official votes are never connected to the internet or any computers that are. Ball said the county hadn’t looked at the actual voting data from election night because there was no way someone could access the data. “There’s no way that anyone could’ve gotten into it,” he said.
+
+“The issue that we had was one related to our web server. It was very simply an issue with how the election results were presented to the public, not how they were received in any official capacity,” Grider said.
+
+“There is no network connection to the official results, nor to any of the voting machines at any point during the process or before and after the process. They have no network interface,” Ball added.
+
+Hoke said that she knew of several examples where system owners believed their networks to be entirely disconnected from the internet when they actually had some connectivity and suggested that the Knox County officials could have been more cautious in their statements.
+
+“It’s wonderful to be able to espouse confidence as they are, but they should not be espousing such unless they have actually had their network for the [election management server] totally assessed by someone whose qualified in network architecture,” she said.
+
+The primary races on the ballot in Knox County on Tuesday included county mayor, sheriff and the county commission. The contest attracted some national attention after Glenn Jacobs, the former WWE wrestler known as Kane, won the Republican nomination for mayor.
+
+This story has been updated with comment from Grider and Ball, a response from Hoke and a statement from DHS.

@@ -1,0 +1,21 @@
+“Her attorneys stated that they didn’t know if the alleged insertion happened on the original site or with our archives (the point at which the manipulation is to have occurred, according to Reid, is still unclear to us),” according to Internet Archive’s post on Tuesday.
+
+“At least some of the examples of allegedly fraudulent posts provided to us had been archived at different dates and by different entities,” the statement continued. “We let Reid’s lawyers know that the information provided was not sufficient for us to verify claims of manipulation. Consequently, and due to Reid’s being a journalist (a very high-profile one, at that) and the journalistic nature of the blog archives, we declined to take down the archives.”
+
+Following Internet Archive’s correspondence with Reid’s lawyers, Reid’s blog implemented a code that prevented the archive from indexing her blog, the organization said in its statement. Internet Archive did not speculate as to who placed the code.
+
+“That request was automatically recognized and processed by the Wayback Machine and the blog archives were excluded, unbeknownst to us (the process is fully automated),” according to Internet Archive’s statement. “The robots.txt exclusion from the web archive remains automatically in effect due to the presence of the request on the live blog.”
+
+Nichols, Reid’s cybersecurity consultant, said Tuesday that there was “significant evidence” indicating the recently circulated posts were never even on the site ― even after the alleged hacking.
+
+“These instances may be the result of screenshot manipulation with the intent to tarnish Ms. Reid’s character,” Nichols said in his statement. “Oddly, there were no responses in the comments section of the entries, despite the inflammatory nature of the posts. If those posts were real, they would have undoubtedly elicited responses from Ms. Reid’s base.”
+
+Twitter user @Jamie_Maz vehemently denied manipulating the screenshots, aside from adding red lines to some of them to highlight particular statements made in the alleged posts.
+
+“Nothing was doctored or altered or created,” @Jamie_Maz told HuffPost. “What you see is what I saw on the Wayback Machine site.”
+
+The LGBTQ advocacy organization PFLAG announced Tuesday that it was rescinding its Straight for Equality in Media award to Reid in light of the “ongoing investigation” into her blog posts.
+
+“When we extended our invitation to Ms. Reid to honor her at our 45th anniversary celebration, we did so knowing about the blog posts from the late 2000s regarding Charlie Crist,” Jean Hodges, PFLAG’s national president, said in a statement. “We appreciated how she stepped up, took ownership, apologized for them, and did better ― this is the behavior and approach we ask of any ally. However, in light of new information, and the ongoing investigation of that information, we must at this time rescind our award to Ms. Reid.”
+
+This article has been updated throughout.

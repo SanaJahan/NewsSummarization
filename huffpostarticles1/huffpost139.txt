@@ -1,0 +1,25 @@
+Amazon’s Alexa device has a lot of good qualities, but one bad one: It eavesdrops.
+
+A couple in Portland, Oregon, was shocked to discover Alexa recorded a private conversation in their home and then sent it to a random person on their contact list.
+
+Danielle, who asked her last name not be identified, told KIRO TV the revelation brought to life a fear that she and her husband had when they first installed the devices to handle their home’s heat, lights and security system.
+
+“My husband and I would joke and say ‘I’d bet these devices are listening to what we’re saying,’” she said.
+
+Things took a chilling turn into Big Brother territory about two weeks ago when the couple got a phone call from an employee of Danielle’s husband.
+
+The message: “Unplug your Alexa devices right now. You’re being hacked.”
+
+After the devices were unplugged, the caller told the couple how he received the audio files.
+
+“At first, my husband was, like, ‘no you didn’t!’ And the (recipient of the message) said ‘You sat there talking about hardwood floors,’” Danielle told the station. “And we said, ‘oh gosh, you really did hear us.’”
+
+The couple then contacted Amazon and finally spoke with an Alexa representative that investigated the issue.
+
+The representative “said ‘our engineers went through your logs, and they saw exactly what you told us, they saw exactly what you said happened, and we’re sorry,’” she said. “He apologized like 15 times in a matter of 30 minutes and he said we really appreciate you bringing this to our attention. This is something we need to fix!”
+
+Amazon told CNET.com the eavesdropping occurred after Alexa mistakenly heard the wake word and then mistakenly heard a command to call someone, followed by a third misheard confirmation:
+
+“Echo woke up due to a word in background conversation sounding like ‘Alexa.’ Then, the subsequent conversation was heard as a “send message” request. At which point, Alexa said out loud “To whom?” At which point, the background conversation was interpreted as a name in the customers contact list. “Alexa then asked out loud, ”[contact name], right?” Alexa then interpreted background conversation as “right”. As unlikely as this string of events is, we are evaluating options to make this case even less likely.”
+
+See KIRO’s report below:
