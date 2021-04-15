@@ -7,23 +7,46 @@ Navigate to:
 """
 import connexion
 from joblib import load
-import sklearn
-from sklearn.feature_extraction.text import TfidfVectorizer
-tfidf = TfidfVectorizer(sublinear_tf=True, min_df=5, norm='l2', encoding='latin-1', ngram_range=(1, 2),
-                        stop_words='english')
+import pickle
 
 # Instantiate our Flask app object
 app = connexion.FlaskApp(__name__, port=8080, specification_dir='')
 application = app.app
 
 # Load our pre-trained model
-clf = load('./Classificatin.joblib')
+clf = load('Classification.joblib')
+
+#load our pre-trained vectorizer
+tfidf = pickle.load(open("tfidf.pickle", "rb"))
+
+#Dictionary with all our mapped categories
+category_dict = {
+        0: "World News",
+        1: "Media",
+        2: "Black Voices",
+        3: "Entertainment",
+        4: "Crime",
+        5: "Comedy",
+        6: "Politics",
+        7: "Women",
+        8: "Queer Voices",
+        9: "Latino Voices",
+        10: "Religion",
+        11: "Education",
+        12: "Science",
+        13: "Tech",
+        14: "Business",
+        15: "Sport",
+        16: "Travel",
+        17: "Impact"
+    }
 
 # Implement a simple health check function (GET)
 def health():
     # Test to make sure our service is actually healthy
     try:
-        predict('Hello I am a sports article!')
+        features = tfidf.transform(['Hello I am a sports article!'])
+        clf.predict(features)
     except:
         return {"Message": "Service is unhealthy"}, 500
 
@@ -34,13 +57,9 @@ def predict(article):
     # Accept the feature values provided as part of our POST
     # Use these as input to clf.predict()
 
-    article = [article]
-    features = tfidf.fit_transform(article).toarray()
+    features = tfidf.transform([article])
     prediction = clf.predict(features)
-
-    print(prediction)
-
-    # Map the predicted value to an actual class
+    prediction = category_dict.get(prediction[0])
 
     # Return the prediction as a json
     return {"prediction" : prediction}
