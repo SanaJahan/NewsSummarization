@@ -21,7 +21,7 @@
 
 ## Week 2
 
-1. Took the Scrapped data from @Sana and reformatted it. 
+1. Reformatted the Scrapped data. 
 
 2. Removed the hardcoding of dictionaries such that the model can work on any number of labels/categories. Generated 2 dictionaries. 
    a. Category to integer -> Passes as input to the model
@@ -31,3 +31,11 @@
 
 4. Tested the model w.r.t different text!
    
+   
+## Week 4
+
+1. Deal with Imbalanced Data - Converted the Data into Balanced Data
+
+2. Added code for performance metrics - confusion matrix, Precision, recall, f1-score along with cross-validation accuracy. 
+
+3. Started writting the Final Project report for Text Classification. 
