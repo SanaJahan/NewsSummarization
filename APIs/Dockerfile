@@ -20,6 +20,7 @@ RUN pip install -r /docker-folder/requirements.txt
 #Copy files into container
 COPY Classification.joblib /docker-folder/
 COPY tfidf.pickle /docker-folder/
+COPY glove.6B.50d.txt /docker-folder/
 COPY streamlit-news-app.py /docker-folder/
 COPY pyrouge /docker-folder/
 

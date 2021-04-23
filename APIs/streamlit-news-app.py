@@ -68,7 +68,7 @@ class ExtractiveTextSummarizer:
 
     def __init__(self):
         # Extract word vectors
-        f = open("../glove.6B.50d.txt", 'r', errors='ignore', encoding='utf8')
+        f = open("glove.6B.50d.txt", 'r', errors='ignore', encoding='utf8')
         # f = open('../model/glove.6B.50d.txt', encoding='windows-1252')
         for line in f:
             values = line.split()
@@ -326,7 +326,7 @@ st.markdown('#')
 
 # Create menu options
 # Code for layout from: https://www.youtube.com/watch?v=0AhG53TCezg&t=510s&ab_channel=JCharisTech%26J-Secur1ty
-menu = ["Home", "About", "Classification", "Summarization"]
+menu = ["Home", "About", "Classification", "Summarization 1", "Summarization 2"]
 
 # Getting the layout depending on choice
 choice = st.sidebar.selectbox("Menu", menu)
@@ -358,16 +358,35 @@ elif choice == "Classification":
         if user_input != "":
             st.subheader("The news category is: " + prediction)
 
+elif choice == "Summarization 1":
+    # Percentage summary function
+    st.header("News Article Summarization 1: Text Rank")
+    st.write("Here, you can summarize a Huffington Post article based on URL. Note that the input URL **must** be a Huffington Post article.")
+    st.write("This algorithm uses text rank to summarize a news article.")
+    st.markdown('######')
+
+    url_input_1 = st.text_input("Huffington Post Article URL ")
+    #sum_length_percentage = st.number_input("Enter desired percentage length of summary (% length of original article)", min_value=5, max_value=100, step=5)
+    sum_length_percentage = st.slider("Desired length of summary as percentage of length of original article (%)", min_value=5, max_value=100, step=5)
+
+    if st.button("Summarize!"):
+        if url_input_1 != "" and sum_length_percentage != 0:
+            summary1 = summarize(url_input_1, sum_length_percentage)
+            st.subheader(summary1.get("title"))
+            st.markdown('######')
+            st.write(summary1.get("summary"))
+
 else:
-    st.header("News Article Summarization")
-    st.write("Here, you can summarize a Huffington Post article based on URL. Note that the input URL *must* be a Huffington Post article.")
+    st.header("News Article Summarization 2: Word Frequency")
+    st.write("Here, you can summarize a Huffington Post article based on URL. Note that the input URL **must** be a Huffington Post article.")
+    st.write("This algorithm uses word frequency in the original article to summarize a news article.")
     st.markdown('######')
 
     #Word frequency summarization algorithm
     url_input = st.text_input("Huffington Post Article URL")
     sum_length = st.number_input("Enter desired sentence length of summary", min_value=1, step=1)
 
-    if st.button("Summarize!"):
+    if st.button("Summarize! "):
         if url_input != "" and sum_length != 0:
             summary = wf_summarize(url_input, sum_length)
             st.subheader(summary.get("title"))
@@ -375,19 +394,6 @@ else:
             st.write(summary.get("summary"))
 
 
-# #This one isn't working (returns empty body of text)
-# #Percentage summary function
-#     st.markdown("### Summarization Function 2: Text Rank")
-#     url_input_1 = st.text_input("Huffington Post Article URL ")
-#     sum_length_percentage = st.number_input("Enter desired percentage length of summary (% length of original article)", min_value=0.1, max_value=1.0, step=0.05)
-#
-#     if st.button("Summarize! "):
-#         if url_input_1 != "" and sum_length_percentage != 0:
-#             summary1 = summarize(url_input_1, sum_length_percentage)
-#             print(summary1)
-#             st.subheader(summary1.get("title"))
-#             st.markdown('######')
-#             st.write(summary1.get("summary"))
 
 
 

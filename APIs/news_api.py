@@ -95,7 +95,7 @@ class ExtractiveTextSummarizer:
 
     def __init__(self):
         # Extract word vectors
-        f = open("../glove.6B.50d.txt", 'r', errors='ignore', encoding='utf8')
+        f = open("glove.6B.50d.txt", 'r', errors='ignore', encoding='utf8')
         # f = open('../model/glove.6B.50d.txt', encoding='windows-1252')
         for line in f:
             values = line.split()
