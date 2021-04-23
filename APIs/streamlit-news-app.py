@@ -338,7 +338,7 @@ if choice == "Home":
 elif choice == "About":
     st.subheader("About Our News Classification and Summarization App:")
     st.markdown('######')
-    st.write("This application was created by three Northeastern Computer Science Master's students; Bhavi Shankar T, "
+    st.write("This application was created by three Northeastern Computer Science Master's students; Bhavani Shankar T, "
              "Sana Jahan, and Isidora Conić. This is the final project for CS 6220 - Data Mining with Professor Everaldo Aguilar. "
              "In this application, you can classify or summarize a news article. For classification, you may paste "
              "the text body of an article, and it will be classified into a category. For summarization, you may enter a Huffington"

@@ -414,18 +414,10 @@
       <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/systems_plain/D30002.M.100.T.A" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/systems_plain/D30003.M.100.T.A" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/systems_plain/D30005.M.100.T.A" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/NewsSummarization.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/APIs/Dockerfile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/APIs/news_api.py" beforeDir="false" afterPath="$PROJECT_DIR$/APIs/news_api.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/APIs/glove.6B.50d.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/APIs/pyrouge" beforeDir="false" afterPath="$PROJECT_DIR$/APIs/pyrouge" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/APIs/requirements.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/APIs/streamlit-news-app.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/glove.6B.50d.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/APIs/streamlit-news-app.py" beforeDir="false" afterPath="$PROJECT_DIR$/APIs/streamlit-news-app.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -529,7 +521,8 @@
       <workItem from="1619086035875" duration="50000" />
       <workItem from="1619086905983" duration="583000" />
       <workItem from="1619087768220" duration="22000" />
-      <workItem from="1619087795920" duration="15601000" />
+      <workItem from="1619087795920" duration="16142000" />
+      <workItem from="1619212435041" duration="537000" />
     </task>
     <servers />
   </component>
