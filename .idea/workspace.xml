@@ -1,0 +1,567 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b9b90a11-e6df-4d93-8090-7e9d3b2ee4ca" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/APIs/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/SL2003_models_plain_text/SL.P.10.R.A.SL062003-01.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/SL2003_models_plain_text/SL.P.10.R.A.SL062003-02.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/SL2003_models_plain_text/SL.P.10.R.A.SL062003-03.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/SL2003_models_plain_text/SL.P.10.R.A.SL062003-04.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/SL2003_models_plain_text/SL.P.10.R.A.SL062003-05.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/SL2003_models_plain_text/SL.P.10.R.A.SL062003-06.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/SL2003_models_plain_text/SL.P.10.R.A.SL062003-07.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/SL2003_models_plain_text/SL.P.10.R.A.SL062003-08.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/SL2003_models_plain_text/SL.P.10.R.A.SL062003-09.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/SL2003_models_plain_text/SL.P.10.R.A.SL062003-10.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/SL2003_models_plain_text/SL.P.10.R.A.SL062003-11.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/SL2003_models_plain_text/SL.P.10.R.A.SL062003-12.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/SL2003_models_plain_text/SL.P.10.R.A.SL062003-13.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/SL2003_models_plain_text/SL.P.10.R.A.SL062003-14.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/SL2003_models_plain_text/SL.P.10.R.A.SL062003-15.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/SL2003_models_plain_text/SL.P.10.R.A.SL062003-16.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/SL2003_models_plain_text/SL.P.10.R.A.SL062003-17.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/SL2003_models_plain_text/SL.P.10.R.A.SL062003-18.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/SL2003_models_plain_text/SL.P.10.R.A.SL062003-19.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/SL2003_models_plain_text/SL.P.10.R.A.SL062003-20.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/SL2003_models_plain_text/SL.P.10.R.A.SL062003-21.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/SL2003_models_plain_text/SL.P.10.R.A.SL062003-22.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/SL2003_models_plain_text/SL.P.10.R.A.SL062003-23.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/SL2003_models_plain_text/SL.P.10.R.A.SL062003-24.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/SL2003_models_plain_text/SL.P.10.R.A.SL062003-25.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/SL2003_models_rouge_format/SL.P.10.R.A.SL062003-01.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/SL2003_models_rouge_format/SL.P.10.R.A.SL062003-02.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/SL2003_models_rouge_format/SL.P.10.R.A.SL062003-03.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/SL2003_models_rouge_format/SL.P.10.R.A.SL062003-04.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/SL2003_models_rouge_format/SL.P.10.R.A.SL062003-05.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/SL2003_models_rouge_format/SL.P.10.R.A.SL062003-06.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/SL2003_models_rouge_format/SL.P.10.R.A.SL062003-07.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/SL2003_models_rouge_format/SL.P.10.R.A.SL062003-08.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/SL2003_models_rouge_format/SL.P.10.R.A.SL062003-09.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/SL2003_models_rouge_format/SL.P.10.R.A.SL062003-10.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/SL2003_models_rouge_format/SL.P.10.R.A.SL062003-11.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/SL2003_models_rouge_format/SL.P.10.R.A.SL062003-12.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/SL2003_models_rouge_format/SL.P.10.R.A.SL062003-13.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/SL2003_models_rouge_format/SL.P.10.R.A.SL062003-14.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/SL2003_models_rouge_format/SL.P.10.R.A.SL062003-15.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/SL2003_models_rouge_format/SL.P.10.R.A.SL062003-16.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/SL2003_models_rouge_format/SL.P.10.R.A.SL062003-17.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/SL2003_models_rouge_format/SL.P.10.R.A.SL062003-18.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/SL2003_models_rouge_format/SL.P.10.R.A.SL062003-19.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/SL2003_models_rouge_format/SL.P.10.R.A.SL062003-20.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/SL2003_models_rouge_format/SL.P.10.R.A.SL062003-21.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/SL2003_models_rouge_format/SL.P.10.R.A.SL062003-22.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/SL2003_models_rouge_format/SL.P.10.R.A.SL062003-23.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/SL2003_models_rouge_format/SL.P.10.R.A.SL062003-24.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/SL2003_models_rouge_format/SL.P.10.R.A.SL062003-25.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/m/D30001.M.100.T.B" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/m/D30001.M.100.T.C" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/m/D30001.M.100.T.D" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/m/D30002.M.100.T.B" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/m/D30002.M.100.T.C" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/m/D30002.M.100.T.E" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/m/D30003.M.100.T.B" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/m/D30003.M.100.T.C" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/m/D30003.M.100.T.F" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/m/D30005.M.100.T.B" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/m/D30005.M.100.T.C" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/m/D30005.M.100.T.G" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/models/SL.P.10.R.A.SL062003-01.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/models/SL.P.10.R.A.SL062003-02.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/models/SL.P.10.R.A.SL062003-03.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/models/SL.P.10.R.A.SL062003-04.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/models/SL.P.10.R.A.SL062003-05.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/models/SL.P.10.R.A.SL062003-06.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/models/SL.P.10.R.A.SL062003-07.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/models/SL.P.10.R.A.SL062003-08.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/models/SL.P.10.R.A.SL062003-09.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/models/SL.P.10.R.A.SL062003-10.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/models/SL.P.10.R.A.SL062003-11.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/models/SL.P.10.R.A.SL062003-12.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/models/SL.P.10.R.A.SL062003-13.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/models/SL.P.10.R.A.SL062003-14.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/models/SL.P.10.R.A.SL062003-15.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/models/SL.P.10.R.A.SL062003-16.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/models/SL.P.10.R.A.SL062003-17.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/models/SL.P.10.R.A.SL062003-18.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/models/SL.P.10.R.A.SL062003-19.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/models/SL.P.10.R.A.SL062003-20.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/models/SL.P.10.R.A.SL062003-21.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/models/SL.P.10.R.A.SL062003-22.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/models/SL.P.10.R.A.SL062003-23.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/models/SL.P.10.R.A.SL062003-24.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/models/SL.P.10.R.A.SL062003-25.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/models/SL.P.10.R.B.SL062003-01.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/models/SL.P.10.R.B.SL062003-02.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/models/SL.P.10.R.B.SL062003-03.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/models/SL.P.10.R.B.SL062003-04.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/models/SL.P.10.R.B.SL062003-05.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/models/SL.P.10.R.B.SL062003-06.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/models/SL.P.10.R.B.SL062003-07.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/models/SL.P.10.R.B.SL062003-08.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/models/SL.P.10.R.B.SL062003-09.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/models/SL.P.10.R.B.SL062003-10.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/models/SL.P.10.R.B.SL062003-11.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/models/SL.P.10.R.B.SL062003-12.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/models/SL.P.10.R.B.SL062003-13.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/models/SL.P.10.R.B.SL062003-14.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/models/SL.P.10.R.B.SL062003-15.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/models/SL.P.10.R.B.SL062003-16.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/models/SL.P.10.R.B.SL062003-17.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/models/SL.P.10.R.B.SL062003-18.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/models/SL.P.10.R.B.SL062003-19.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/models/SL.P.10.R.B.SL062003-20.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/models/SL.P.10.R.B.SL062003-21.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/models/SL.P.10.R.B.SL062003-22.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/models/SL.P.10.R.B.SL062003-23.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/models/SL.P.10.R.B.SL062003-24.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/models/SL.P.10.R.B.SL062003-25.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/models/SL.P.10.R.C.SL062003-01.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/models/SL.P.10.R.C.SL062003-02.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/models/SL.P.10.R.C.SL062003-03.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/models/SL.P.10.R.C.SL062003-04.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/models/SL.P.10.R.C.SL062003-05.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/models/SL.P.10.R.C.SL062003-06.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/models/SL.P.10.R.C.SL062003-07.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/models/SL.P.10.R.C.SL062003-08.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/models/SL.P.10.R.C.SL062003-09.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/models/SL.P.10.R.C.SL062003-10.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/models/SL.P.10.R.C.SL062003-11.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/models/SL.P.10.R.C.SL062003-12.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/models/SL.P.10.R.C.SL062003-13.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/models/SL.P.10.R.C.SL062003-14.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/models/SL.P.10.R.C.SL062003-15.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/models/SL.P.10.R.C.SL062003-16.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/models/SL.P.10.R.C.SL062003-17.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/models/SL.P.10.R.C.SL062003-18.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/models/SL.P.10.R.C.SL062003-19.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/models/SL.P.10.R.C.SL062003-20.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/models/SL.P.10.R.C.SL062003-21.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/models/SL.P.10.R.C.SL062003-22.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/models/SL.P.10.R.C.SL062003-23.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/models/SL.P.10.R.C.SL062003-24.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/models/SL.P.10.R.C.SL062003-25.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/models/SL.P.10.R.D.SL062003-01.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/models/SL.P.10.R.D.SL062003-02.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/models/SL.P.10.R.D.SL062003-03.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/models/SL.P.10.R.D.SL062003-04.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/models/SL.P.10.R.D.SL062003-05.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/models/SL.P.10.R.D.SL062003-06.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/models/SL.P.10.R.D.SL062003-07.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/models/SL.P.10.R.D.SL062003-08.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/models/SL.P.10.R.D.SL062003-09.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/models/SL.P.10.R.D.SL062003-10.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/models/SL.P.10.R.D.SL062003-11.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/models/SL.P.10.R.D.SL062003-12.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/models/SL.P.10.R.D.SL062003-13.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/models/SL.P.10.R.D.SL062003-14.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/models/SL.P.10.R.D.SL062003-15.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/models/SL.P.10.R.D.SL062003-16.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/models/SL.P.10.R.D.SL062003-17.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/models/SL.P.10.R.D.SL062003-18.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/models/SL.P.10.R.D.SL062003-19.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/models/SL.P.10.R.D.SL062003-20.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/models/SL.P.10.R.D.SL062003-21.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/models/SL.P.10.R.D.SL062003-22.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/models/SL.P.10.R.D.SL062003-23.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/models/SL.P.10.R.D.SL062003-24.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/models/SL.P.10.R.D.SL062003-25.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/models2/D30001.M.100.T.B" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/models2/D30001.M.100.T.C" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/models2/D30001.M.100.T.D" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/models2/D30002.M.100.T.B" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/models2/D30002.M.100.T.C" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/models2/D30002.M.100.T.E" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/models2/D30003.M.100.T.B" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/models2/D30003.M.100.T.C" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/models2/D30003.M.100.T.F" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/models2/D30005.M.100.T.B" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/models2/D30005.M.100.T.C" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/models2/D30005.M.100.T.G" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/models_plain/D30001.M.100.T.B" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/models_plain/D30001.M.100.T.C" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/models_plain/D30001.M.100.T.D" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/models_plain/D30002.M.100.T.B" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/models_plain/D30002.M.100.T.C" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/models_plain/D30002.M.100.T.E" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/models_plain/D30003.M.100.T.B" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/models_plain/D30003.M.100.T.C" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/models_plain/D30003.M.100.T.F" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/models_plain/D30005.M.100.T.B" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/models_plain/D30005.M.100.T.C" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/models_plain/D30005.M.100.T.G" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/systems/SL.P.10.R.11.SL062003-01.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/systems/SL.P.10.R.11.SL062003-02.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/systems/SL.P.10.R.11.SL062003-03.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/systems/SL.P.10.R.11.SL062003-04.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/systems/SL.P.10.R.11.SL062003-05.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/systems/SL.P.10.R.11.SL062003-06.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/systems/SL.P.10.R.11.SL062003-07.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/systems/SL.P.10.R.11.SL062003-08.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/systems/SL.P.10.R.11.SL062003-09.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/systems/SL.P.10.R.11.SL062003-10.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/systems/SL.P.10.R.11.SL062003-11.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/systems/SL.P.10.R.11.SL062003-12.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/systems/SL.P.10.R.11.SL062003-13.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/systems/SL.P.10.R.11.SL062003-14.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/systems/SL.P.10.R.11.SL062003-15.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/systems/SL.P.10.R.11.SL062003-16.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/systems/SL.P.10.R.11.SL062003-17.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/systems/SL.P.10.R.11.SL062003-18.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/systems/SL.P.10.R.11.SL062003-19.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/systems/SL.P.10.R.11.SL062003-20.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/systems/SL.P.10.R.11.SL062003-21.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/systems/SL.P.10.R.11.SL062003-22.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/systems/SL.P.10.R.11.SL062003-23.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/systems/SL.P.10.R.11.SL062003-24.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/systems/SL.P.10.R.11.SL062003-25.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/systems/SL.P.10.R.12.SL062003-01.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/systems/SL.P.10.R.12.SL062003-02.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/systems/SL.P.10.R.12.SL062003-03.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/systems/SL.P.10.R.12.SL062003-04.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/systems/SL.P.10.R.12.SL062003-05.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/systems/SL.P.10.R.12.SL062003-06.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/systems/SL.P.10.R.12.SL062003-07.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/systems/SL.P.10.R.12.SL062003-08.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/systems/SL.P.10.R.12.SL062003-09.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/systems/SL.P.10.R.12.SL062003-10.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/systems/SL.P.10.R.12.SL062003-11.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/systems/SL.P.10.R.12.SL062003-12.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/systems/SL.P.10.R.12.SL062003-13.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/systems/SL.P.10.R.12.SL062003-14.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/systems/SL.P.10.R.12.SL062003-15.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/systems/SL.P.10.R.12.SL062003-16.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/systems/SL.P.10.R.12.SL062003-17.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/systems/SL.P.10.R.12.SL062003-18.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/systems/SL.P.10.R.12.SL062003-19.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/systems/SL.P.10.R.12.SL062003-20.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/systems/SL.P.10.R.12.SL062003-21.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/systems/SL.P.10.R.12.SL062003-22.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/systems/SL.P.10.R.12.SL062003-23.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/systems/SL.P.10.R.12.SL062003-24.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/systems/SL.P.10.R.12.SL062003-25.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/systems/SL.P.10.R.13.SL062003-01.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/systems/SL.P.10.R.13.SL062003-02.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/systems/SL.P.10.R.13.SL062003-03.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/systems/SL.P.10.R.13.SL062003-04.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/systems/SL.P.10.R.13.SL062003-05.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/systems/SL.P.10.R.13.SL062003-06.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/systems/SL.P.10.R.13.SL062003-07.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/systems/SL.P.10.R.13.SL062003-08.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/systems/SL.P.10.R.13.SL062003-09.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/systems/SL.P.10.R.13.SL062003-10.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/systems/SL.P.10.R.13.SL062003-11.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/systems/SL.P.10.R.13.SL062003-12.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/systems/SL.P.10.R.13.SL062003-13.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/systems/SL.P.10.R.13.SL062003-14.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/systems/SL.P.10.R.13.SL062003-15.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/systems/SL.P.10.R.13.SL062003-16.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/systems/SL.P.10.R.13.SL062003-17.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/systems/SL.P.10.R.13.SL062003-18.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/systems/SL.P.10.R.13.SL062003-19.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/systems/SL.P.10.R.13.SL062003-20.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/systems/SL.P.10.R.13.SL062003-21.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/systems/SL.P.10.R.13.SL062003-22.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/systems/SL.P.10.R.13.SL062003-23.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/systems/SL.P.10.R.13.SL062003-24.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/systems/SL.P.10.R.13.SL062003-25.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/systems/SL.P.10.R.14.SL062003-01.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/systems/SL.P.10.R.14.SL062003-02.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/systems/SL.P.10.R.14.SL062003-03.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/systems/SL.P.10.R.14.SL062003-04.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/systems/SL.P.10.R.14.SL062003-05.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/systems/SL.P.10.R.14.SL062003-06.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/systems/SL.P.10.R.14.SL062003-07.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/systems/SL.P.10.R.14.SL062003-08.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/systems/SL.P.10.R.14.SL062003-09.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/systems/SL.P.10.R.14.SL062003-10.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/systems/SL.P.10.R.14.SL062003-11.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/systems/SL.P.10.R.14.SL062003-12.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/systems/SL.P.10.R.14.SL062003-13.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/systems/SL.P.10.R.14.SL062003-14.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/systems/SL.P.10.R.14.SL062003-15.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/systems/SL.P.10.R.14.SL062003-16.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/systems/SL.P.10.R.14.SL062003-17.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/systems/SL.P.10.R.14.SL062003-18.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/systems/SL.P.10.R.14.SL062003-19.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/systems/SL.P.10.R.14.SL062003-20.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/systems/SL.P.10.R.14.SL062003-21.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/systems/SL.P.10.R.14.SL062003-22.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/systems/SL.P.10.R.14.SL062003-23.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/systems/SL.P.10.R.14.SL062003-24.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/systems/SL.P.10.R.14.SL062003-25.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/systems/SL.P.10.R.21.SL062003-01.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/systems/SL.P.10.R.21.SL062003-02.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/systems/SL.P.10.R.21.SL062003-03.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/systems/SL.P.10.R.21.SL062003-04.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/systems/SL.P.10.R.21.SL062003-05.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/systems/SL.P.10.R.21.SL062003-06.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/systems/SL.P.10.R.21.SL062003-07.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/systems/SL.P.10.R.21.SL062003-08.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/systems/SL.P.10.R.21.SL062003-09.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/systems/SL.P.10.R.21.SL062003-10.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/systems/SL.P.10.R.21.SL062003-11.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/systems/SL.P.10.R.21.SL062003-12.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/systems/SL.P.10.R.21.SL062003-13.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/systems/SL.P.10.R.21.SL062003-14.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/systems/SL.P.10.R.21.SL062003-15.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/systems/SL.P.10.R.21.SL062003-16.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/systems/SL.P.10.R.21.SL062003-17.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/systems/SL.P.10.R.21.SL062003-18.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/systems/SL.P.10.R.21.SL062003-19.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/systems/SL.P.10.R.21.SL062003-20.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/systems/SL.P.10.R.21.SL062003-21.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/systems/SL.P.10.R.21.SL062003-22.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/systems/SL.P.10.R.21.SL062003-23.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/systems/SL.P.10.R.21.SL062003-24.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/systems/SL.P.10.R.21.SL062003-25.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/systems/SL.P.10.R.22.SL062003-01.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/systems/SL.P.10.R.22.SL062003-02.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/systems/SL.P.10.R.22.SL062003-03.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/systems/SL.P.10.R.22.SL062003-04.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/systems/SL.P.10.R.22.SL062003-05.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/systems/SL.P.10.R.22.SL062003-06.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/systems/SL.P.10.R.22.SL062003-07.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/systems/SL.P.10.R.22.SL062003-08.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/systems/SL.P.10.R.22.SL062003-09.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/systems/SL.P.10.R.22.SL062003-10.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/systems/SL.P.10.R.22.SL062003-11.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/systems/SL.P.10.R.22.SL062003-12.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/systems/SL.P.10.R.22.SL062003-13.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/systems/SL.P.10.R.22.SL062003-14.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/systems/SL.P.10.R.22.SL062003-15.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/systems/SL.P.10.R.22.SL062003-16.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/systems/SL.P.10.R.22.SL062003-17.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/systems/SL.P.10.R.22.SL062003-18.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/systems/SL.P.10.R.22.SL062003-19.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/systems/SL.P.10.R.22.SL062003-20.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/systems/SL.P.10.R.22.SL062003-21.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/systems/SL.P.10.R.22.SL062003-22.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/systems/SL.P.10.R.22.SL062003-23.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/systems/SL.P.10.R.22.SL062003-24.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/systems/SL.P.10.R.22.SL062003-25.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/systems/SL.P.10.R.23.SL062003-01.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/systems/SL.P.10.R.23.SL062003-02.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/systems/SL.P.10.R.23.SL062003-03.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/systems/SL.P.10.R.23.SL062003-04.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/systems/SL.P.10.R.23.SL062003-05.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/systems/SL.P.10.R.23.SL062003-06.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/systems/SL.P.10.R.23.SL062003-07.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/systems/SL.P.10.R.23.SL062003-08.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/systems/SL.P.10.R.23.SL062003-09.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/systems/SL.P.10.R.23.SL062003-10.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/systems/SL.P.10.R.23.SL062003-11.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/systems/SL.P.10.R.23.SL062003-12.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/systems/SL.P.10.R.23.SL062003-13.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/systems/SL.P.10.R.23.SL062003-14.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/systems/SL.P.10.R.23.SL062003-15.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/systems/SL.P.10.R.23.SL062003-16.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/systems/SL.P.10.R.23.SL062003-17.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/systems/SL.P.10.R.23.SL062003-18.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/systems/SL.P.10.R.23.SL062003-19.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/systems/SL.P.10.R.23.SL062003-20.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/systems/SL.P.10.R.23.SL062003-21.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/systems/SL.P.10.R.23.SL062003-22.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/systems/SL.P.10.R.23.SL062003-23.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/systems/SL.P.10.R.23.SL062003-24.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/systems/SL.P.10.R.23.SL062003-25.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/systems/SL.P.10.R.24.SL062003-01.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/systems/SL.P.10.R.24.SL062003-02.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/systems/SL.P.10.R.24.SL062003-03.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/systems/SL.P.10.R.24.SL062003-04.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/systems/SL.P.10.R.24.SL062003-05.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/systems/SL.P.10.R.24.SL062003-06.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/systems/SL.P.10.R.24.SL062003-07.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/systems/SL.P.10.R.24.SL062003-08.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/systems/SL.P.10.R.24.SL062003-09.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/systems/SL.P.10.R.24.SL062003-10.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/systems/SL.P.10.R.24.SL062003-11.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/systems/SL.P.10.R.24.SL062003-12.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/systems/SL.P.10.R.24.SL062003-13.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/systems/SL.P.10.R.24.SL062003-14.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/systems/SL.P.10.R.24.SL062003-15.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/systems/SL.P.10.R.24.SL062003-16.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/systems/SL.P.10.R.24.SL062003-17.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/systems/SL.P.10.R.24.SL062003-18.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/systems/SL.P.10.R.24.SL062003-19.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/systems/SL.P.10.R.24.SL062003-20.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/systems/SL.P.10.R.24.SL062003-21.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/systems/SL.P.10.R.24.SL062003-22.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/systems/SL.P.10.R.24.SL062003-23.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/systems/SL.P.10.R.24.SL062003-24.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/systems/SL.P.10.R.24.SL062003-25.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/systems2/D30001.M.100.T.A" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/systems2/D30002.M.100.T.A" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/systems2/D30003.M.100.T.A" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/systems2/D30005.M.100.T.A" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/systems_plain/D30001.M.100.T.A" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/systems_plain/D30002.M.100.T.A" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/systems_plain/D30003.M.100.T.A" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/systems_plain/D30005.M.100.T.A" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs/streamlit-news-app.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JupyterTrust" id="0cbfd89e-cf4b-4280-a7a8-453c5f5f8a7a" />
+  <component name="ProjectId" id="1rBt7e91PTIoNfis9Xsk4oqArvC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="Python.news_api">
+    <configuration name="news_api" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="NewsSummarization" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/APIs" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/APIs/news_api.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="news_classification_api" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="NewsSummarization" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/APIs" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/APIs/news_classification_api.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.news_api" />
+        <item itemvalue="Python.news_classification_api" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b9b90a11-e6df-4d93-8090-7e9d3b2ee4ca" name="Default Changelist" comment="" />
+      <created>1618461145624</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1618461145624</updated>
+      <workItem from="1618461147082" duration="3321000" />
+      <workItem from="1618511920438" duration="71000" />
+      <workItem from="1618511999758" duration="3297000" />
+      <workItem from="1618996286706" duration="1175000" />
+      <workItem from="1619033021992" duration="1747000" />
+      <workItem from="1619043201115" duration="1337000" />
+      <workItem from="1619045929044" duration="149000" />
+      <workItem from="1619046092988" duration="3263000" />
+      <workItem from="1619083983863" duration="35000" />
+      <workItem from="1619084022393" duration="1288000" />
+      <workItem from="1619086016349" duration="17000" />
+      <workItem from="1619086035875" duration="50000" />
+      <workItem from="1619086905983" duration="583000" />
+      <workItem from="1619087768220" duration="22000" />
+      <workItem from="1619087795920" duration="12032000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="3713" y="-26" key="#Notifications" timestamp="1619083875458">
+      <screen x="1440" y="-515" width="3440" height="1323" />
+    </state>
+    <state x="3713" y="-26" key="#Notifications/0.25.1440.875/1440.-515.3440.1323@1440.-515.3440.1323" timestamp="1619083875458" />
+    <state width="1734" height="375" key="GridCell.Tab.0.bottom" timestamp="1619086085773">
+      <screen x="1440" y="-515" width="3440" height="1323" />
+    </state>
+    <state width="1734" height="375" key="GridCell.Tab.0.bottom/0.25.1440.875/1440.-515.3440.1323@1440.-515.3440.1323" timestamp="1619086085773" />
+    <state width="1734" height="375" key="GridCell.Tab.0.center" timestamp="1619086085772">
+      <screen x="1440" y="-515" width="3440" height="1323" />
+    </state>
+    <state width="1734" height="375" key="GridCell.Tab.0.center/0.25.1440.875/1440.-515.3440.1323@1440.-515.3440.1323" timestamp="1619086085772" />
+    <state width="1734" height="375" key="GridCell.Tab.0.left" timestamp="1619086085771">
+      <screen x="1440" y="-515" width="3440" height="1323" />
+    </state>
+    <state width="1734" height="375" key="GridCell.Tab.0.left/0.25.1440.875/1440.-515.3440.1323@1440.-515.3440.1323" timestamp="1619086085771" />
+    <state width="1734" height="375" key="GridCell.Tab.0.right" timestamp="1619086085772">
+      <screen x="1440" y="-515" width="3440" height="1323" />
+    </state>
+    <state width="1734" height="375" key="GridCell.Tab.0.right/0.25.1440.875/1440.-515.3440.1323@1440.-515.3440.1323" timestamp="1619086085772" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/NewsSummarization$news_api.coverage" NAME="news_api Coverage Results" MODIFIED="1619086042570" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/APIs" />
+    <SUITE FILE_PATH="coverage/NewsSummarization$news_classification_api.coverage" NAME="news_classification_api Coverage Results" MODIFIED="1618513439977" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/APIs" />
+  </component>
+</project>
