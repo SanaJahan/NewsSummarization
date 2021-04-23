@@ -20,8 +20,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b9b90a11-e6df-4d93-8090-7e9d3b2ee4ca" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/APIs/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/APIs/pyrouge" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/SL2003_models_plain_text/SL.P.10.R.A.SL062003-01.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/SL2003_models_plain_text/SL.P.10.R.A.SL062003-02.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/SL2003_models_plain_text/SL.P.10.R.A.SL062003-03.html" afterDir="false" />
@@ -416,8 +414,9 @@
       <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/systems_plain/D30002.M.100.T.A" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/systems_plain/D30003.M.100.T.A" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/APIs/pyrouge/pyrouge/tests/data/systems_plain/D30005.M.100.T.A" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/APIs/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/APIs/streamlit-news-app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/APIs/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/APIs/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/APIs/pyrouge" beforeDir="false" afterPath="$PROJECT_DIR$/APIs/pyrouge" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -516,7 +515,7 @@
       <workItem from="1619086035875" duration="50000" />
       <workItem from="1619086905983" duration="583000" />
       <workItem from="1619087768220" duration="22000" />
-      <workItem from="1619087795920" duration="12032000" />
+      <workItem from="1619087795920" duration="13334000" />
     </task>
     <servers />
   </component>

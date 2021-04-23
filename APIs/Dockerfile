@@ -9,6 +9,8 @@ RUN pip3 install pyrouge
 RUN pip3 install matplotlib
 RUN pip3 install joblib
 RUN pip3 install pandas
+RUN pip3 install pyrouge
+RUN pip3 install rouge_metric
 
 #Install python packages
 RUN mkdir /docker-folder
@@ -17,6 +19,7 @@ RUN pip install -r /docker-folder/requirements.txt
 
 #Copy files into container
 COPY Classification.joblib /docker-folder/
+COPY tfidf.pickle /docker-folder/
 COPY streamlit-news-app.py /docker-folder/
 COPY pyrouge /docker-folder/
 
