@@ -34,7 +34,7 @@ Then, in your browser, navigate to:
 ```http://0.0.0.0:8501/```
 
 The News Classification and Summarization App should be running in your browser at the above address.
-Video demo of the service
+
 Please find the video demo of our streamlit app at the following YouTube link:
 https://youtu.be/--k8BTIsXSo 
 
