@@ -28,6 +28,7 @@ In order to run the streamlit app on your local device, as mentioned previously,
 
 However, an easier way to do this (and avoid errors due to package dependencies) would be to run this using Docker. The Dockerfile is included in the APIs folder of our github. After cloning this repository, and assuming Docker is installed on your local machine, you may run the following commands:
 ```docker build . -t news-app```
+
 ```docker run -d -p 8501:8501 --name news-app-docker news-app:latest```
 
 Then, in your browser, navigate to:
