@@ -7,7 +7,7 @@ First, we created a Swagger API interface with both our services (summarization 
 ```news_api.yaml```
 
 This user interface has the class Swagger interface, and also has health checks for both the classification and summarization services. In order to run the Swagger API, please run the following commands from the APIs folder in your terminal: 
-python news_api.py
+```python news_api.py```
 
 Then, in your browser, navigate to:
 ```http://localhost:8080/ui/```
